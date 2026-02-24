@@ -1,0 +1,1555 @@
+time,model_id,model_name,port_name,data
+[33m0,2,plant_stem,,stressLevel: 0 nutrientCount: 0 isDaytime: 0 state: 0[0m
+[33m0,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m0,4,nature_model,,timeLeftToRain: 6 timeLeftToSun: 12 sunStatus: 0 state: 0[0m
+[33m2,2,plant_stem,,stressLevel: 0 nutrientCount: 0 isDaytime: 0 state: 0[0m
+[33m4,2,plant_stem,,stressLevel: 0 nutrientCount: 0 isDaytime: 0 state: 0[0m
+[33m6,2,plant_stem,,stressLevel: 0 nutrientCount: 0 isDaytime: 0 state: 0[0m
+[33m6,4,nature_model,,timeLeftToRain: 6 timeLeftToSun: 12 sunStatus: 0 state: 2[0m
+[33m6,3,plant_soil,,moistureLevel: 1 state: 1[0m
+[32m6,4,nature_model,rain_out,1[0m
+[33m6,4,nature_model,,timeLeftToRain: 7 timeLeftToSun: 6 sunStatus: 0 state: 0[0m
+[33m6,3,plant_soil,,moistureLevel: 1 state: 0[0m
+[33m8,2,plant_stem,,stressLevel: 0 nutrientCount: 0 isDaytime: 0 state: 0[0m
+[33m10,2,plant_stem,,stressLevel: 0 nutrientCount: 0 isDaytime: 0 state: 0[0m
+[33m12,2,plant_stem,,stressLevel: 0 nutrientCount: 0 isDaytime: 0 state: 0[0m
+[33m12,4,nature_model,,timeLeftToRain: 7 timeLeftToSun: 6 sunStatus: 1 state: 1[0m
+[33m12,2,plant_stem,,stressLevel: 0 nutrientCount: 0 isDaytime: 1 state: 0[0m
+[32m12,4,nature_model,sun_out,1[0m
+[33m12,4,nature_model,,timeLeftToRain: 1 timeLeftToSun: 12 sunStatus: 1 state: 0[0m
+[33m13,4,nature_model,,timeLeftToRain: 1 timeLeftToSun: 12 sunStatus: 1 state: 2[0m
+[33m13,3,plant_soil,,moistureLevel: 2 state: 1[0m
+[32m13,4,nature_model,rain_out,1[0m
+[33m13,4,nature_model,,timeLeftToRain: 5 timeLeftToSun: 11 sunStatus: 1 state: 0[0m
+[33m13,3,plant_soil,,moistureLevel: 2 state: 0[0m
+[33m14,2,plant_stem,,stressLevel: 0 nutrientCount: 0 isDaytime: 1 state: 1[0m
+[32m14,2,plant_stem,out_request,1[0m
+[33m14,2,plant_stem,,stressLevel: 0 nutrientCount: 0 isDaytime: 1 state: 0[0m
+[33m14,3,plant_soil,,moistureLevel: 2 state: 2[0m
+[33m14,2,plant_stem,,stressLevel: 0 nutrientCount: 1 isDaytime: 1 state: 2[0m
+[32m14,3,plant_soil,out_soil_status,1[0m
+[33m14,3,plant_soil,,moistureLevel: 1 state: 0[0m
+[33m14,2,plant_stem,,stressLevel: 0 nutrientCount: 1 isDaytime: 1 state: 0[0m
+[33m16,2,plant_stem,,stressLevel: 0 nutrientCount: 1 isDaytime: 1 state: 1[0m
+[32m16,2,plant_stem,out_request,1[0m
+[33m16,2,plant_stem,,stressLevel: 0 nutrientCount: 1 isDaytime: 1 state: 0[0m
+[33m16,3,plant_soil,,moistureLevel: 1 state: 2[0m
+[33m16,2,plant_stem,,stressLevel: 0 nutrientCount: 2 isDaytime: 1 state: 2[0m
+[32m16,3,plant_soil,out_soil_status,1[0m
+[33m16,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m16,2,plant_stem,,stressLevel: 0 nutrientCount: 2 isDaytime: 1 state: 0[0m
+[33m18,2,plant_stem,,stressLevel: 0 nutrientCount: 2 isDaytime: 1 state: 1[0m
+[33m18,4,nature_model,,timeLeftToRain: 5 timeLeftToSun: 11 sunStatus: 1 state: 2[0m
+[32m18,2,plant_stem,out_request,1[0m
+[33m18,2,plant_stem,,stressLevel: 0 nutrientCount: 2 isDaytime: 1 state: 0[0m
+[33m18,3,plant_soil,,moistureLevel: 1 state: 2[0m
+[32m18,4,nature_model,rain_out,1[0m
+[33m18,4,nature_model,,timeLeftToRain: 10 timeLeftToSun: 6 sunStatus: 1 state: 0[0m
+[33m18,2,plant_stem,,stressLevel: 0 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m18,3,plant_soil,out_soil_status,1[0m
+[33m18,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m18,2,plant_stem,,stressLevel: 0 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m20,2,plant_stem,,stressLevel: 0 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m20,2,plant_stem,out_request,1[0m
+[33m20,2,plant_stem,,stressLevel: 0 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m20,3,plant_soil,,moistureLevel: 0 state: 2[0m
+[33m20,2,plant_stem,,stressLevel: 1 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m20,3,plant_soil,out_soil_status,0[0m
+[33m20,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m20,2,plant_stem,,stressLevel: 1 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m22,2,plant_stem,,stressLevel: 1 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m22,2,plant_stem,out_request,1[0m
+[33m22,2,plant_stem,,stressLevel: 1 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m22,3,plant_soil,,moistureLevel: 0 state: 2[0m
+[33m22,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m22,3,plant_soil,out_soil_status,0[0m
+[33m22,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m22,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m24,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[33m24,4,nature_model,,timeLeftToRain: 10 timeLeftToSun: 6 sunStatus: 0 state: 1[0m
+[32m24,2,plant_stem,out_request,1[0m
+[33m24,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m24,3,plant_soil,,moistureLevel: 0 state: 2[0m
+[32m24,4,nature_model,sun_out,0[0m
+[33m24,4,nature_model,,timeLeftToRain: 4 timeLeftToSun: 12 sunStatus: 0 state: 0[0m
+[33m24,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 2[0m
+[32m24,3,plant_soil,out_soil_status,0[0m
+[33m24,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m24,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m26,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m28,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m28,4,nature_model,,timeLeftToRain: 4 timeLeftToSun: 12 sunStatus: 0 state: 2[0m
+[33m28,3,plant_soil,,moistureLevel: 1 state: 1[0m
+[32m28,4,nature_model,rain_out,1[0m
+[33m28,4,nature_model,,timeLeftToRain: 10 timeLeftToSun: 8 sunStatus: 0 state: 0[0m
+[33m28,3,plant_soil,,moistureLevel: 1 state: 0[0m
+[33m30,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m32,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m34,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m36,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m36,4,nature_model,,timeLeftToRain: 10 timeLeftToSun: 8 sunStatus: 1 state: 1[0m
+[33m36,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[32m36,4,nature_model,sun_out,1[0m
+[33m36,4,nature_model,,timeLeftToRain: 2 timeLeftToSun: 12 sunStatus: 1 state: 0[0m
+[33m38,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[33m38,4,nature_model,,timeLeftToRain: 2 timeLeftToSun: 12 sunStatus: 1 state: 2[0m
+[32m38,2,plant_stem,out_request,1[0m
+[33m38,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m38,3,plant_soil,,moistureLevel: 2 state: 2[0m
+[32m38,4,nature_model,rain_out,1[0m
+[33m38,4,nature_model,,timeLeftToRain: 5 timeLeftToSun: 10 sunStatus: 1 state: 0[0m
+[33m38,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m38,3,plant_soil,out_soil_status,1[0m
+[33m38,3,plant_soil,,moistureLevel: 1 state: 0[0m
+[33m38,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m40,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m40,2,plant_stem,out_request,1[0m
+[33m40,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m40,3,plant_soil,,moistureLevel: 1 state: 2[0m
+[33m40,2,plant_stem,,stressLevel: 1 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m40,3,plant_soil,out_soil_status,1[0m
+[33m40,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m40,2,plant_stem,,stressLevel: 1 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m42,2,plant_stem,,stressLevel: 1 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m42,2,plant_stem,out_request,1[0m
+[33m42,2,plant_stem,,stressLevel: 1 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m42,3,plant_soil,,moistureLevel: 0 state: 2[0m
+[33m42,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m42,3,plant_soil,out_soil_status,0[0m
+[33m42,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m42,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m43,4,nature_model,,timeLeftToRain: 5 timeLeftToSun: 10 sunStatus: 1 state: 2[0m
+[33m43,3,plant_soil,,moistureLevel: 1 state: 1[0m
+[32m43,4,nature_model,rain_out,1[0m
+[33m43,4,nature_model,,timeLeftToRain: 5 timeLeftToSun: 5 sunStatus: 1 state: 0[0m
+[33m43,3,plant_soil,,moistureLevel: 1 state: 0[0m
+[33m44,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m44,2,plant_stem,out_request,1[0m
+[33m44,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m44,3,plant_soil,,moistureLevel: 1 state: 2[0m
+[33m44,2,plant_stem,,stressLevel: 1 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m44,3,plant_soil,out_soil_status,1[0m
+[33m44,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m44,2,plant_stem,,stressLevel: 1 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m46,2,plant_stem,,stressLevel: 1 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m46,2,plant_stem,out_request,1[0m
+[33m46,2,plant_stem,,stressLevel: 1 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m46,3,plant_soil,,moistureLevel: 0 state: 2[0m
+[33m46,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m46,3,plant_soil,out_soil_status,0[0m
+[33m46,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m46,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m48,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[33m48,4,nature_model,,timeLeftToRain: 5 timeLeftToSun: 5 sunStatus: 0 state: 1[0m
+[32m48,2,plant_stem,out_request,1[0m
+[33m48,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m48,3,plant_soil,,moistureLevel: 0 state: 2[0m
+[32m48,4,nature_model,sun_out,0[0m
+[33m48,4,nature_model,,timeLeftToRain: 0 timeLeftToSun: 12 sunStatus: 0 state: 0[0m
+[33m48,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 2[0m
+[32m48,3,plant_soil,out_soil_status,0[0m
+[33m48,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m48,4,nature_model,,timeLeftToRain: 0 timeLeftToSun: 12 sunStatus: 0 state: 2[0m
+[33m48,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m48,3,plant_soil,,moistureLevel: 1 state: 1[0m
+[32m48,4,nature_model,rain_out,1[0m
+[33m48,4,nature_model,,timeLeftToRain: 6 timeLeftToSun: 12 sunStatus: 0 state: 0[0m
+[33m48,3,plant_soil,,moistureLevel: 1 state: 0[0m
+[33m50,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m52,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m54,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m54,4,nature_model,,timeLeftToRain: 6 timeLeftToSun: 12 sunStatus: 0 state: 2[0m
+[33m54,3,plant_soil,,moistureLevel: 2 state: 1[0m
+[32m54,4,nature_model,rain_out,1[0m
+[33m54,4,nature_model,,timeLeftToRain: 10 timeLeftToSun: 6 sunStatus: 0 state: 0[0m
+[33m54,3,plant_soil,,moistureLevel: 2 state: 0[0m
+[33m56,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m58,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m60,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m60,4,nature_model,,timeLeftToRain: 10 timeLeftToSun: 6 sunStatus: 1 state: 1[0m
+[33m60,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[32m60,4,nature_model,sun_out,1[0m
+[33m60,4,nature_model,,timeLeftToRain: 4 timeLeftToSun: 12 sunStatus: 1 state: 0[0m
+[33m62,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m62,2,plant_stem,out_request,1[0m
+[33m62,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m62,3,plant_soil,,moistureLevel: 2 state: 2[0m
+[33m62,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m62,3,plant_soil,out_soil_status,1[0m
+[33m62,3,plant_soil,,moistureLevel: 1 state: 0[0m
+[33m62,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m64,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[33m64,4,nature_model,,timeLeftToRain: 4 timeLeftToSun: 12 sunStatus: 1 state: 2[0m
+[32m64,2,plant_stem,out_request,1[0m
+[33m64,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m64,3,plant_soil,,moistureLevel: 2 state: 2[0m
+[32m64,4,nature_model,rain_out,1[0m
+[33m64,4,nature_model,,timeLeftToRain: 10 timeLeftToSun: 8 sunStatus: 1 state: 0[0m
+[33m64,2,plant_stem,,stressLevel: 1 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m64,3,plant_soil,out_soil_status,1[0m
+[33m64,3,plant_soil,,moistureLevel: 1 state: 0[0m
+[33m64,2,plant_stem,,stressLevel: 1 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m66,2,plant_stem,,stressLevel: 1 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m66,2,plant_stem,out_request,1[0m
+[33m66,2,plant_stem,,stressLevel: 1 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m66,3,plant_soil,,moistureLevel: 1 state: 2[0m
+[33m66,2,plant_stem,,stressLevel: 0 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m66,3,plant_soil,out_soil_status,1[0m
+[33m66,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m66,2,plant_stem,,stressLevel: 0 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m68,2,plant_stem,,stressLevel: 0 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m68,2,plant_stem,out_request,1[0m
+[33m68,2,plant_stem,,stressLevel: 0 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m68,3,plant_soil,,moistureLevel: 0 state: 2[0m
+[33m68,2,plant_stem,,stressLevel: 1 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m68,3,plant_soil,out_soil_status,0[0m
+[33m68,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m68,2,plant_stem,,stressLevel: 1 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m70,2,plant_stem,,stressLevel: 1 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m70,2,plant_stem,out_request,1[0m
+[33m70,2,plant_stem,,stressLevel: 1 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m70,3,plant_soil,,moistureLevel: 0 state: 2[0m
+[33m70,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m70,3,plant_soil,out_soil_status,0[0m
+[33m70,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m70,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m72,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[33m72,4,nature_model,,timeLeftToRain: 10 timeLeftToSun: 8 sunStatus: 0 state: 1[0m
+[32m72,2,plant_stem,out_request,1[0m
+[33m72,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m72,3,plant_soil,,moistureLevel: 0 state: 2[0m
+[32m72,4,nature_model,sun_out,0[0m
+[33m72,4,nature_model,,timeLeftToRain: 2 timeLeftToSun: 12 sunStatus: 0 state: 0[0m
+[33m72,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 2[0m
+[32m72,3,plant_soil,out_soil_status,0[0m
+[33m72,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m72,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m74,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m74,4,nature_model,,timeLeftToRain: 2 timeLeftToSun: 12 sunStatus: 0 state: 2[0m
+[33m74,3,plant_soil,,moistureLevel: 1 state: 1[0m
+[32m74,4,nature_model,rain_out,1[0m
+[33m74,4,nature_model,,timeLeftToRain: 10 timeLeftToSun: 10 sunStatus: 0 state: 0[0m
+[33m74,3,plant_soil,,moistureLevel: 1 state: 0[0m
+[33m76,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m78,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m80,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m82,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m84,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m84,4,nature_model,,timeLeftToRain: 10 timeLeftToSun: 10 sunStatus: 1 state: 1[0m
+[33m84,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[32m84,4,nature_model,sun_out,1[0m
+[33m84,4,nature_model,,timeLeftToRain: 0 timeLeftToSun: 12 sunStatus: 1 state: 0[0m
+[33m84,4,nature_model,,timeLeftToRain: 0 timeLeftToSun: 12 sunStatus: 1 state: 2[0m
+[33m84,3,plant_soil,,moistureLevel: 2 state: 1[0m
+[32m84,4,nature_model,rain_out,1[0m
+[33m84,4,nature_model,,timeLeftToRain: 9 timeLeftToSun: 12 sunStatus: 1 state: 0[0m
+[33m84,3,plant_soil,,moistureLevel: 2 state: 0[0m
+[33m86,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m86,2,plant_stem,out_request,1[0m
+[33m86,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m86,3,plant_soil,,moistureLevel: 2 state: 2[0m
+[33m86,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m86,3,plant_soil,out_soil_status,1[0m
+[33m86,3,plant_soil,,moistureLevel: 1 state: 0[0m
+[33m86,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m88,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m88,2,plant_stem,out_request,1[0m
+[33m88,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m88,3,plant_soil,,moistureLevel: 1 state: 2[0m
+[33m88,2,plant_stem,,stressLevel: 1 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m88,3,plant_soil,out_soil_status,1[0m
+[33m88,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m88,2,plant_stem,,stressLevel: 1 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m90,2,plant_stem,,stressLevel: 1 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m90,2,plant_stem,out_request,1[0m
+[33m90,2,plant_stem,,stressLevel: 1 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m90,3,plant_soil,,moistureLevel: 0 state: 2[0m
+[33m90,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m90,3,plant_soil,out_soil_status,0[0m
+[33m90,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m90,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m92,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m92,2,plant_stem,out_request,1[0m
+[33m92,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m92,3,plant_soil,,moistureLevel: 0 state: 2[0m
+[33m92,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m92,3,plant_soil,out_soil_status,0[0m
+[33m92,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m92,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m93,4,nature_model,,timeLeftToRain: 9 timeLeftToSun: 12 sunStatus: 1 state: 2[0m
+[33m93,3,plant_soil,,moistureLevel: 1 state: 1[0m
+[32m93,4,nature_model,rain_out,1[0m
+[33m93,4,nature_model,,timeLeftToRain: 10 timeLeftToSun: 3 sunStatus: 1 state: 0[0m
+[33m93,3,plant_soil,,moistureLevel: 1 state: 0[0m
+[33m94,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m94,2,plant_stem,out_request,1[0m
+[33m94,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m94,3,plant_soil,,moistureLevel: 1 state: 2[0m
+[33m94,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m94,3,plant_soil,out_soil_status,1[0m
+[33m94,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m94,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m96,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[33m96,4,nature_model,,timeLeftToRain: 10 timeLeftToSun: 3 sunStatus: 0 state: 1[0m
+[32m96,2,plant_stem,out_request,1[0m
+[33m96,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m96,3,plant_soil,,moistureLevel: 0 state: 2[0m
+[32m96,4,nature_model,sun_out,0[0m
+[33m96,4,nature_model,,timeLeftToRain: 7 timeLeftToSun: 12 sunStatus: 0 state: 0[0m
+[33m96,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 2[0m
+[32m96,3,plant_soil,out_soil_status,0[0m
+[33m96,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m96,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m98,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m100,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m102,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m103,4,nature_model,,timeLeftToRain: 7 timeLeftToSun: 12 sunStatus: 0 state: 2[0m
+[33m103,3,plant_soil,,moistureLevel: 1 state: 1[0m
+[32m103,4,nature_model,rain_out,1[0m
+[33m103,4,nature_model,,timeLeftToRain: 7 timeLeftToSun: 5 sunStatus: 0 state: 0[0m
+[33m103,3,plant_soil,,moistureLevel: 1 state: 0[0m
+[33m104,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m106,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m108,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m108,4,nature_model,,timeLeftToRain: 7 timeLeftToSun: 5 sunStatus: 1 state: 1[0m
+[33m108,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[32m108,4,nature_model,sun_out,1[0m
+[33m108,4,nature_model,,timeLeftToRain: 2 timeLeftToSun: 12 sunStatus: 1 state: 0[0m
+[33m110,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[33m110,4,nature_model,,timeLeftToRain: 2 timeLeftToSun: 12 sunStatus: 1 state: 2[0m
+[32m110,2,plant_stem,out_request,1[0m
+[33m110,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m110,3,plant_soil,,moistureLevel: 2 state: 2[0m
+[32m110,4,nature_model,rain_out,1[0m
+[33m110,4,nature_model,,timeLeftToRain: 8 timeLeftToSun: 10 sunStatus: 1 state: 0[0m
+[33m110,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m110,3,plant_soil,out_soil_status,1[0m
+[33m110,3,plant_soil,,moistureLevel: 1 state: 0[0m
+[33m110,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m112,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m112,2,plant_stem,out_request,1[0m
+[33m112,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m112,3,plant_soil,,moistureLevel: 1 state: 2[0m
+[33m112,2,plant_stem,,stressLevel: 1 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m112,3,plant_soil,out_soil_status,1[0m
+[33m112,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m112,2,plant_stem,,stressLevel: 1 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m114,2,plant_stem,,stressLevel: 1 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m114,2,plant_stem,out_request,1[0m
+[33m114,2,plant_stem,,stressLevel: 1 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m114,3,plant_soil,,moistureLevel: 0 state: 2[0m
+[33m114,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m114,3,plant_soil,out_soil_status,0[0m
+[33m114,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m114,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m116,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m116,2,plant_stem,out_request,1[0m
+[33m116,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m116,3,plant_soil,,moistureLevel: 0 state: 2[0m
+[33m116,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m116,3,plant_soil,out_soil_status,0[0m
+[33m116,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m116,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m118,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[33m118,4,nature_model,,timeLeftToRain: 8 timeLeftToSun: 10 sunStatus: 1 state: 2[0m
+[32m118,2,plant_stem,out_request,1[0m
+[33m118,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m118,3,plant_soil,,moistureLevel: 1 state: 2[0m
+[32m118,4,nature_model,rain_out,1[0m
+[33m118,4,nature_model,,timeLeftToRain: 8 timeLeftToSun: 2 sunStatus: 1 state: 0[0m
+[33m118,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m118,3,plant_soil,out_soil_status,1[0m
+[33m118,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m118,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m120,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[33m120,4,nature_model,,timeLeftToRain: 8 timeLeftToSun: 2 sunStatus: 0 state: 1[0m
+[32m120,2,plant_stem,out_request,1[0m
+[33m120,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m120,3,plant_soil,,moistureLevel: 0 state: 2[0m
+[32m120,4,nature_model,sun_out,0[0m
+[33m120,4,nature_model,,timeLeftToRain: 6 timeLeftToSun: 12 sunStatus: 0 state: 0[0m
+[33m120,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 2[0m
+[32m120,3,plant_soil,out_soil_status,0[0m
+[33m120,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m120,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m122,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m124,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m126,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m126,4,nature_model,,timeLeftToRain: 6 timeLeftToSun: 12 sunStatus: 0 state: 2[0m
+[33m126,3,plant_soil,,moistureLevel: 1 state: 1[0m
+[32m126,4,nature_model,rain_out,1[0m
+[33m126,4,nature_model,,timeLeftToRain: 10 timeLeftToSun: 6 sunStatus: 0 state: 0[0m
+[33m126,3,plant_soil,,moistureLevel: 1 state: 0[0m
+[33m128,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m130,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m132,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m132,4,nature_model,,timeLeftToRain: 10 timeLeftToSun: 6 sunStatus: 1 state: 1[0m
+[33m132,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[32m132,4,nature_model,sun_out,1[0m
+[33m132,4,nature_model,,timeLeftToRain: 4 timeLeftToSun: 12 sunStatus: 1 state: 0[0m
+[33m134,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m134,2,plant_stem,out_request,1[0m
+[33m134,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m134,3,plant_soil,,moistureLevel: 1 state: 2[0m
+[33m134,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m134,3,plant_soil,out_soil_status,1[0m
+[33m134,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m134,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m136,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[33m136,4,nature_model,,timeLeftToRain: 4 timeLeftToSun: 12 sunStatus: 1 state: 2[0m
+[32m136,2,plant_stem,out_request,1[0m
+[33m136,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m136,3,plant_soil,,moistureLevel: 1 state: 2[0m
+[32m136,4,nature_model,rain_out,1[0m
+[33m136,4,nature_model,,timeLeftToRain: 10 timeLeftToSun: 8 sunStatus: 1 state: 0[0m
+[33m136,2,plant_stem,,stressLevel: 1 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m136,3,plant_soil,out_soil_status,1[0m
+[33m136,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m136,2,plant_stem,,stressLevel: 1 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m138,2,plant_stem,,stressLevel: 1 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m138,2,plant_stem,out_request,1[0m
+[33m138,2,plant_stem,,stressLevel: 1 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m138,3,plant_soil,,moistureLevel: 0 state: 2[0m
+[33m138,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m138,3,plant_soil,out_soil_status,0[0m
+[33m138,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m138,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m140,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m140,2,plant_stem,out_request,1[0m
+[33m140,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m140,3,plant_soil,,moistureLevel: 0 state: 2[0m
+[33m140,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m140,3,plant_soil,out_soil_status,0[0m
+[33m140,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m140,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m142,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m142,2,plant_stem,out_request,1[0m
+[33m142,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m142,3,plant_soil,,moistureLevel: 0 state: 2[0m
+[33m142,2,plant_stem,,stressLevel: 4 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m142,3,plant_soil,out_soil_status,0[0m
+[33m142,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m142,2,plant_stem,,stressLevel: 4 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m144,2,plant_stem,,stressLevel: 4 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[33m144,4,nature_model,,timeLeftToRain: 10 timeLeftToSun: 8 sunStatus: 0 state: 1[0m
+[32m144,2,plant_stem,out_request,1[0m
+[33m144,2,plant_stem,,stressLevel: 4 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m144,3,plant_soil,,moistureLevel: 0 state: 2[0m
+[32m144,4,nature_model,sun_out,0[0m
+[33m144,4,nature_model,,timeLeftToRain: 2 timeLeftToSun: 12 sunStatus: 0 state: 0[0m
+[33m144,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 0 state: 2[0m
+[32m144,3,plant_soil,out_soil_status,0[0m
+[33m144,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[32m144,2,plant_stem,out_event,0[0m
+[33m144,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m146,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m146,4,nature_model,,timeLeftToRain: 2 timeLeftToSun: 12 sunStatus: 0 state: 2[0m
+[33m146,3,plant_soil,,moistureLevel: 1 state: 1[0m
+[32m146,4,nature_model,rain_out,1[0m
+[33m146,4,nature_model,,timeLeftToRain: 6 timeLeftToSun: 10 sunStatus: 0 state: 0[0m
+[33m146,3,plant_soil,,moistureLevel: 1 state: 0[0m
+[33m148,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m150,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m152,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m152,4,nature_model,,timeLeftToRain: 6 timeLeftToSun: 10 sunStatus: 0 state: 2[0m
+[33m152,3,plant_soil,,moistureLevel: 2 state: 1[0m
+[32m152,4,nature_model,rain_out,1[0m
+[33m152,4,nature_model,,timeLeftToRain: 10 timeLeftToSun: 4 sunStatus: 0 state: 0[0m
+[33m152,3,plant_soil,,moistureLevel: 2 state: 0[0m
+[33m154,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m156,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m156,4,nature_model,,timeLeftToRain: 10 timeLeftToSun: 4 sunStatus: 1 state: 1[0m
+[33m156,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[32m156,4,nature_model,sun_out,1[0m
+[33m156,4,nature_model,,timeLeftToRain: 6 timeLeftToSun: 12 sunStatus: 1 state: 0[0m
+[33m158,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m158,2,plant_stem,out_request,1[0m
+[33m158,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m158,3,plant_soil,,moistureLevel: 2 state: 2[0m
+[33m158,2,plant_stem,,stressLevel: 4 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m158,3,plant_soil,out_soil_status,1[0m
+[33m158,3,plant_soil,,moistureLevel: 1 state: 0[0m
+[33m158,2,plant_stem,,stressLevel: 4 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m160,2,plant_stem,,stressLevel: 4 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m160,2,plant_stem,out_request,1[0m
+[33m160,2,plant_stem,,stressLevel: 4 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m160,3,plant_soil,,moistureLevel: 1 state: 2[0m
+[33m160,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m160,3,plant_soil,out_soil_status,1[0m
+[33m160,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m160,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m162,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[33m162,4,nature_model,,timeLeftToRain: 6 timeLeftToSun: 12 sunStatus: 1 state: 2[0m
+[32m162,2,plant_stem,out_request,1[0m
+[33m162,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m162,3,plant_soil,,moistureLevel: 1 state: 2[0m
+[32m162,4,nature_model,rain_out,1[0m
+[33m162,4,nature_model,,timeLeftToRain: 10 timeLeftToSun: 6 sunStatus: 1 state: 0[0m
+[33m162,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m162,3,plant_soil,out_soil_status,1[0m
+[33m162,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m162,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m164,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m164,2,plant_stem,out_request,1[0m
+[33m164,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m164,3,plant_soil,,moistureLevel: 0 state: 2[0m
+[33m164,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m164,3,plant_soil,out_soil_status,0[0m
+[33m164,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m164,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m166,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m166,2,plant_stem,out_request,1[0m
+[33m166,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m166,3,plant_soil,,moistureLevel: 0 state: 2[0m
+[33m166,2,plant_stem,,stressLevel: 4 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m166,3,plant_soil,out_soil_status,0[0m
+[33m166,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m166,2,plant_stem,,stressLevel: 4 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m168,2,plant_stem,,stressLevel: 4 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[33m168,4,nature_model,,timeLeftToRain: 10 timeLeftToSun: 6 sunStatus: 0 state: 1[0m
+[32m168,2,plant_stem,out_request,1[0m
+[33m168,2,plant_stem,,stressLevel: 4 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m168,3,plant_soil,,moistureLevel: 0 state: 2[0m
+[32m168,4,nature_model,sun_out,0[0m
+[33m168,4,nature_model,,timeLeftToRain: 4 timeLeftToSun: 12 sunStatus: 0 state: 0[0m
+[33m168,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 0 state: 2[0m
+[32m168,3,plant_soil,out_soil_status,0[0m
+[33m168,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[32m168,2,plant_stem,out_event,0[0m
+[33m168,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m170,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m172,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m172,4,nature_model,,timeLeftToRain: 4 timeLeftToSun: 12 sunStatus: 0 state: 2[0m
+[33m172,3,plant_soil,,moistureLevel: 1 state: 1[0m
+[32m172,4,nature_model,rain_out,1[0m
+[33m172,4,nature_model,,timeLeftToRain: 8 timeLeftToSun: 8 sunStatus: 0 state: 0[0m
+[33m172,3,plant_soil,,moistureLevel: 1 state: 0[0m
+[33m174,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m176,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m178,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m180,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m180,4,nature_model,,timeLeftToRain: 8 timeLeftToSun: 8 sunStatus: 1 state: 1[0m
+[33m180,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[32m180,4,nature_model,sun_out,1[0m
+[33m180,4,nature_model,,timeLeftToRain: 0 timeLeftToSun: 12 sunStatus: 1 state: 0[0m
+[33m180,4,nature_model,,timeLeftToRain: 0 timeLeftToSun: 12 sunStatus: 1 state: 2[0m
+[33m180,3,plant_soil,,moistureLevel: 2 state: 1[0m
+[32m180,4,nature_model,rain_out,1[0m
+[33m180,4,nature_model,,timeLeftToRain: 6 timeLeftToSun: 12 sunStatus: 1 state: 0[0m
+[33m180,3,plant_soil,,moistureLevel: 2 state: 0[0m
+[33m182,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m182,2,plant_stem,out_request,1[0m
+[33m182,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m182,3,plant_soil,,moistureLevel: 2 state: 2[0m
+[33m182,2,plant_stem,,stressLevel: 4 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m182,3,plant_soil,out_soil_status,1[0m
+[33m182,3,plant_soil,,moistureLevel: 1 state: 0[0m
+[33m182,2,plant_stem,,stressLevel: 4 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m184,2,plant_stem,,stressLevel: 4 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m184,2,plant_stem,out_request,1[0m
+[33m184,2,plant_stem,,stressLevel: 4 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m184,3,plant_soil,,moistureLevel: 1 state: 2[0m
+[33m184,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m184,3,plant_soil,out_soil_status,1[0m
+[33m184,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m184,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m186,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[33m186,4,nature_model,,timeLeftToRain: 6 timeLeftToSun: 12 sunStatus: 1 state: 2[0m
+[32m186,2,plant_stem,out_request,1[0m
+[33m186,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m186,3,plant_soil,,moistureLevel: 1 state: 2[0m
+[32m186,4,nature_model,rain_out,1[0m
+[33m186,4,nature_model,,timeLeftToRain: 10 timeLeftToSun: 6 sunStatus: 1 state: 0[0m
+[33m186,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m186,3,plant_soil,out_soil_status,1[0m
+[33m186,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m186,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m188,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m188,2,plant_stem,out_request,1[0m
+[33m188,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m188,3,plant_soil,,moistureLevel: 0 state: 2[0m
+[33m188,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m188,3,plant_soil,out_soil_status,0[0m
+[33m188,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m188,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m190,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m190,2,plant_stem,out_request,1[0m
+[33m190,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m190,3,plant_soil,,moistureLevel: 0 state: 2[0m
+[33m190,2,plant_stem,,stressLevel: 4 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m190,3,plant_soil,out_soil_status,0[0m
+[33m190,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m190,2,plant_stem,,stressLevel: 4 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m192,2,plant_stem,,stressLevel: 4 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[33m192,4,nature_model,,timeLeftToRain: 10 timeLeftToSun: 6 sunStatus: 0 state: 1[0m
+[32m192,2,plant_stem,out_request,1[0m
+[33m192,2,plant_stem,,stressLevel: 4 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m192,3,plant_soil,,moistureLevel: 0 state: 2[0m
+[32m192,4,nature_model,sun_out,0[0m
+[33m192,4,nature_model,,timeLeftToRain: 4 timeLeftToSun: 12 sunStatus: 0 state: 0[0m
+[33m192,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 0 state: 2[0m
+[32m192,3,plant_soil,out_soil_status,0[0m
+[33m192,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[32m192,2,plant_stem,out_event,0[0m
+[33m192,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m194,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m196,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m196,4,nature_model,,timeLeftToRain: 4 timeLeftToSun: 12 sunStatus: 0 state: 2[0m
+[33m196,3,plant_soil,,moistureLevel: 1 state: 1[0m
+[32m196,4,nature_model,rain_out,1[0m
+[33m196,4,nature_model,,timeLeftToRain: 8 timeLeftToSun: 8 sunStatus: 0 state: 0[0m
+[33m196,3,plant_soil,,moistureLevel: 1 state: 0[0m
+[33m198,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m200,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m202,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m204,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m204,4,nature_model,,timeLeftToRain: 8 timeLeftToSun: 8 sunStatus: 1 state: 1[0m
+[33m204,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[32m204,4,nature_model,sun_out,1[0m
+[33m204,4,nature_model,,timeLeftToRain: 0 timeLeftToSun: 12 sunStatus: 1 state: 0[0m
+[33m204,4,nature_model,,timeLeftToRain: 0 timeLeftToSun: 12 sunStatus: 1 state: 2[0m
+[33m204,3,plant_soil,,moistureLevel: 2 state: 1[0m
+[32m204,4,nature_model,rain_out,1[0m
+[33m204,4,nature_model,,timeLeftToRain: 9 timeLeftToSun: 12 sunStatus: 1 state: 0[0m
+[33m204,3,plant_soil,,moistureLevel: 2 state: 0[0m
+[33m206,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m206,2,plant_stem,out_request,1[0m
+[33m206,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m206,3,plant_soil,,moistureLevel: 2 state: 2[0m
+[33m206,2,plant_stem,,stressLevel: 4 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m206,3,plant_soil,out_soil_status,1[0m
+[33m206,3,plant_soil,,moistureLevel: 1 state: 0[0m
+[33m206,2,plant_stem,,stressLevel: 4 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m208,2,plant_stem,,stressLevel: 4 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m208,2,plant_stem,out_request,1[0m
+[33m208,2,plant_stem,,stressLevel: 4 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m208,3,plant_soil,,moistureLevel: 1 state: 2[0m
+[33m208,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m208,3,plant_soil,out_soil_status,1[0m
+[33m208,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m208,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m210,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m210,2,plant_stem,out_request,1[0m
+[33m210,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m210,3,plant_soil,,moistureLevel: 0 state: 2[0m
+[33m210,2,plant_stem,,stressLevel: 4 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m210,3,plant_soil,out_soil_status,0[0m
+[33m210,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m210,2,plant_stem,,stressLevel: 4 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m212,2,plant_stem,,stressLevel: 4 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m212,2,plant_stem,out_request,1[0m
+[33m212,2,plant_stem,,stressLevel: 4 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m212,3,plant_soil,,moistureLevel: 0 state: 2[0m
+[33m212,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m212,3,plant_soil,out_soil_status,0[0m
+[33m212,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[32m212,2,plant_stem,out_event,0[0m
+[33m212,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m213,4,nature_model,,timeLeftToRain: 9 timeLeftToSun: 12 sunStatus: 1 state: 2[0m
+[33m213,3,plant_soil,,moistureLevel: 1 state: 1[0m
+[32m213,4,nature_model,rain_out,1[0m
+[33m213,4,nature_model,,timeLeftToRain: 6 timeLeftToSun: 3 sunStatus: 1 state: 0[0m
+[33m213,3,plant_soil,,moistureLevel: 1 state: 0[0m
+[33m214,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m214,2,plant_stem,out_request,1[0m
+[33m214,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m214,3,plant_soil,,moistureLevel: 1 state: 2[0m
+[33m214,2,plant_stem,,stressLevel: 4 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m214,3,plant_soil,out_soil_status,1[0m
+[33m214,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m214,2,plant_stem,,stressLevel: 4 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m216,2,plant_stem,,stressLevel: 4 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[33m216,4,nature_model,,timeLeftToRain: 6 timeLeftToSun: 3 sunStatus: 0 state: 1[0m
+[32m216,2,plant_stem,out_request,1[0m
+[33m216,2,plant_stem,,stressLevel: 4 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m216,3,plant_soil,,moistureLevel: 0 state: 2[0m
+[32m216,4,nature_model,sun_out,0[0m
+[33m216,4,nature_model,,timeLeftToRain: 3 timeLeftToSun: 12 sunStatus: 0 state: 0[0m
+[33m216,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 0 state: 2[0m
+[32m216,3,plant_soil,out_soil_status,0[0m
+[33m216,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[32m216,2,plant_stem,out_event,0[0m
+[33m216,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m218,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m219,4,nature_model,,timeLeftToRain: 3 timeLeftToSun: 12 sunStatus: 0 state: 2[0m
+[33m219,3,plant_soil,,moistureLevel: 1 state: 1[0m
+[32m219,4,nature_model,rain_out,1[0m
+[33m219,4,nature_model,,timeLeftToRain: 9 timeLeftToSun: 9 sunStatus: 0 state: 0[0m
+[33m219,3,plant_soil,,moistureLevel: 1 state: 0[0m
+[33m220,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m222,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m224,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m226,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m228,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m228,4,nature_model,,timeLeftToRain: 9 timeLeftToSun: 9 sunStatus: 1 state: 1[0m
+[33m228,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[32m228,4,nature_model,sun_out,1[0m
+[33m228,4,nature_model,,timeLeftToRain: 0 timeLeftToSun: 12 sunStatus: 1 state: 0[0m
+[33m228,4,nature_model,,timeLeftToRain: 0 timeLeftToSun: 12 sunStatus: 1 state: 2[0m
+[33m228,3,plant_soil,,moistureLevel: 2 state: 1[0m
+[32m228,4,nature_model,rain_out,1[0m
+[33m228,4,nature_model,,timeLeftToRain: 5 timeLeftToSun: 12 sunStatus: 1 state: 0[0m
+[33m228,3,plant_soil,,moistureLevel: 2 state: 0[0m
+[33m230,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m230,2,plant_stem,out_request,1[0m
+[33m230,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m230,3,plant_soil,,moistureLevel: 2 state: 2[0m
+[33m230,2,plant_stem,,stressLevel: 4 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m230,3,plant_soil,out_soil_status,1[0m
+[33m230,3,plant_soil,,moistureLevel: 1 state: 0[0m
+[33m230,2,plant_stem,,stressLevel: 4 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m232,2,plant_stem,,stressLevel: 4 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m232,2,plant_stem,out_request,1[0m
+[33m232,2,plant_stem,,stressLevel: 4 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m232,3,plant_soil,,moistureLevel: 1 state: 2[0m
+[33m232,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m232,3,plant_soil,out_soil_status,1[0m
+[33m232,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m232,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m233,4,nature_model,,timeLeftToRain: 5 timeLeftToSun: 12 sunStatus: 1 state: 2[0m
+[33m233,3,plant_soil,,moistureLevel: 1 state: 1[0m
+[32m233,4,nature_model,rain_out,1[0m
+[33m233,4,nature_model,,timeLeftToRain: 9 timeLeftToSun: 7 sunStatus: 1 state: 0[0m
+[33m233,3,plant_soil,,moistureLevel: 1 state: 0[0m
+[33m234,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m234,2,plant_stem,out_request,1[0m
+[33m234,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m234,3,plant_soil,,moistureLevel: 1 state: 2[0m
+[33m234,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m234,3,plant_soil,out_soil_status,1[0m
+[33m234,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m234,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m236,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m236,2,plant_stem,out_request,1[0m
+[33m236,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m236,3,plant_soil,,moistureLevel: 0 state: 2[0m
+[33m236,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m236,3,plant_soil,out_soil_status,0[0m
+[33m236,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m236,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m238,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m238,2,plant_stem,out_request,1[0m
+[33m238,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m238,3,plant_soil,,moistureLevel: 0 state: 2[0m
+[33m238,2,plant_stem,,stressLevel: 4 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m238,3,plant_soil,out_soil_status,0[0m
+[33m238,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m238,2,plant_stem,,stressLevel: 4 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m240,2,plant_stem,,stressLevel: 4 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[33m240,4,nature_model,,timeLeftToRain: 9 timeLeftToSun: 7 sunStatus: 0 state: 1[0m
+[32m240,2,plant_stem,out_request,1[0m
+[33m240,2,plant_stem,,stressLevel: 4 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m240,3,plant_soil,,moistureLevel: 0 state: 2[0m
+[32m240,4,nature_model,sun_out,0[0m
+[33m240,4,nature_model,,timeLeftToRain: 2 timeLeftToSun: 12 sunStatus: 0 state: 0[0m
+[33m240,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 0 state: 2[0m
+[32m240,3,plant_soil,out_soil_status,0[0m
+[33m240,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[32m240,2,plant_stem,out_event,0[0m
+[33m240,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m242,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m242,4,nature_model,,timeLeftToRain: 2 timeLeftToSun: 12 sunStatus: 0 state: 2[0m
+[33m242,3,plant_soil,,moistureLevel: 1 state: 1[0m
+[32m242,4,nature_model,rain_out,1[0m
+[33m242,4,nature_model,,timeLeftToRain: 5 timeLeftToSun: 10 sunStatus: 0 state: 0[0m
+[33m242,3,plant_soil,,moistureLevel: 1 state: 0[0m
+[33m244,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m246,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m247,4,nature_model,,timeLeftToRain: 5 timeLeftToSun: 10 sunStatus: 0 state: 2[0m
+[33m247,3,plant_soil,,moistureLevel: 2 state: 1[0m
+[32m247,4,nature_model,rain_out,1[0m
+[33m247,4,nature_model,,timeLeftToRain: 9 timeLeftToSun: 5 sunStatus: 0 state: 0[0m
+[33m247,3,plant_soil,,moistureLevel: 2 state: 0[0m
+[33m248,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m250,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m252,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m252,4,nature_model,,timeLeftToRain: 9 timeLeftToSun: 5 sunStatus: 1 state: 1[0m
+[33m252,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[32m252,4,nature_model,sun_out,1[0m
+[33m252,4,nature_model,,timeLeftToRain: 4 timeLeftToSun: 12 sunStatus: 1 state: 0[0m
+[33m254,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m254,2,plant_stem,out_request,1[0m
+[33m254,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m254,3,plant_soil,,moistureLevel: 2 state: 2[0m
+[33m254,2,plant_stem,,stressLevel: 4 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m254,3,plant_soil,out_soil_status,1[0m
+[33m254,3,plant_soil,,moistureLevel: 1 state: 0[0m
+[33m254,2,plant_stem,,stressLevel: 4 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m256,2,plant_stem,,stressLevel: 4 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[33m256,4,nature_model,,timeLeftToRain: 4 timeLeftToSun: 12 sunStatus: 1 state: 2[0m
+[32m256,2,plant_stem,out_request,1[0m
+[33m256,2,plant_stem,,stressLevel: 4 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m256,3,plant_soil,,moistureLevel: 2 state: 2[0m
+[32m256,4,nature_model,rain_out,1[0m
+[33m256,4,nature_model,,timeLeftToRain: 9 timeLeftToSun: 8 sunStatus: 1 state: 0[0m
+[33m256,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m256,3,plant_soil,out_soil_status,1[0m
+[33m256,3,plant_soil,,moistureLevel: 1 state: 0[0m
+[33m256,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m258,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m258,2,plant_stem,out_request,1[0m
+[33m258,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m258,3,plant_soil,,moistureLevel: 1 state: 2[0m
+[33m258,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m258,3,plant_soil,out_soil_status,1[0m
+[33m258,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m258,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m260,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m260,2,plant_stem,out_request,1[0m
+[33m260,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m260,3,plant_soil,,moistureLevel: 0 state: 2[0m
+[33m260,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m260,3,plant_soil,out_soil_status,0[0m
+[33m260,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m260,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m262,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m262,2,plant_stem,out_request,1[0m
+[33m262,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m262,3,plant_soil,,moistureLevel: 0 state: 2[0m
+[33m262,2,plant_stem,,stressLevel: 4 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m262,3,plant_soil,out_soil_status,0[0m
+[33m262,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m262,2,plant_stem,,stressLevel: 4 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m264,2,plant_stem,,stressLevel: 4 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[33m264,4,nature_model,,timeLeftToRain: 9 timeLeftToSun: 8 sunStatus: 0 state: 1[0m
+[32m264,2,plant_stem,out_request,1[0m
+[33m264,2,plant_stem,,stressLevel: 4 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m264,3,plant_soil,,moistureLevel: 0 state: 2[0m
+[32m264,4,nature_model,sun_out,0[0m
+[33m264,4,nature_model,,timeLeftToRain: 1 timeLeftToSun: 12 sunStatus: 0 state: 0[0m
+[33m264,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 0 state: 2[0m
+[32m264,3,plant_soil,out_soil_status,0[0m
+[33m264,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[32m264,2,plant_stem,out_event,0[0m
+[33m264,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m265,4,nature_model,,timeLeftToRain: 1 timeLeftToSun: 12 sunStatus: 0 state: 2[0m
+[33m265,3,plant_soil,,moistureLevel: 1 state: 1[0m
+[32m265,4,nature_model,rain_out,1[0m
+[33m265,4,nature_model,,timeLeftToRain: 9 timeLeftToSun: 11 sunStatus: 0 state: 0[0m
+[33m265,3,plant_soil,,moistureLevel: 1 state: 0[0m
+[33m266,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m268,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m270,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m272,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m274,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m274,4,nature_model,,timeLeftToRain: 9 timeLeftToSun: 11 sunStatus: 0 state: 2[0m
+[33m274,3,plant_soil,,moistureLevel: 2 state: 1[0m
+[32m274,4,nature_model,rain_out,1[0m
+[33m274,4,nature_model,,timeLeftToRain: 9 timeLeftToSun: 2 sunStatus: 0 state: 0[0m
+[33m274,3,plant_soil,,moistureLevel: 2 state: 0[0m
+[33m276,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m276,4,nature_model,,timeLeftToRain: 9 timeLeftToSun: 2 sunStatus: 1 state: 1[0m
+[33m276,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[32m276,4,nature_model,sun_out,1[0m
+[33m276,4,nature_model,,timeLeftToRain: 7 timeLeftToSun: 12 sunStatus: 1 state: 0[0m
+[33m278,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m278,2,plant_stem,out_request,1[0m
+[33m278,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m278,3,plant_soil,,moistureLevel: 2 state: 2[0m
+[33m278,2,plant_stem,,stressLevel: 4 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m278,3,plant_soil,out_soil_status,1[0m
+[33m278,3,plant_soil,,moistureLevel: 1 state: 0[0m
+[33m278,2,plant_stem,,stressLevel: 4 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m280,2,plant_stem,,stressLevel: 4 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m280,2,plant_stem,out_request,1[0m
+[33m280,2,plant_stem,,stressLevel: 4 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m280,3,plant_soil,,moistureLevel: 1 state: 2[0m
+[33m280,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m280,3,plant_soil,out_soil_status,1[0m
+[33m280,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m280,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m282,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m282,2,plant_stem,out_request,1[0m
+[33m282,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m282,3,plant_soil,,moistureLevel: 0 state: 2[0m
+[33m282,2,plant_stem,,stressLevel: 4 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m282,3,plant_soil,out_soil_status,0[0m
+[33m282,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m282,2,plant_stem,,stressLevel: 4 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m283,4,nature_model,,timeLeftToRain: 7 timeLeftToSun: 12 sunStatus: 1 state: 2[0m
+[33m283,3,plant_soil,,moistureLevel: 1 state: 1[0m
+[32m283,4,nature_model,rain_out,1[0m
+[33m283,4,nature_model,,timeLeftToRain: 10 timeLeftToSun: 5 sunStatus: 1 state: 0[0m
+[33m283,3,plant_soil,,moistureLevel: 1 state: 0[0m
+[33m284,2,plant_stem,,stressLevel: 4 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m284,2,plant_stem,out_request,1[0m
+[33m284,2,plant_stem,,stressLevel: 4 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m284,3,plant_soil,,moistureLevel: 1 state: 2[0m
+[33m284,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m284,3,plant_soil,out_soil_status,1[0m
+[33m284,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m284,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m286,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m286,2,plant_stem,out_request,1[0m
+[33m286,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m286,3,plant_soil,,moistureLevel: 0 state: 2[0m
+[33m286,2,plant_stem,,stressLevel: 4 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m286,3,plant_soil,out_soil_status,0[0m
+[33m286,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m286,2,plant_stem,,stressLevel: 4 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m288,2,plant_stem,,stressLevel: 4 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[33m288,4,nature_model,,timeLeftToRain: 10 timeLeftToSun: 5 sunStatus: 0 state: 1[0m
+[32m288,2,plant_stem,out_request,1[0m
+[33m288,2,plant_stem,,stressLevel: 4 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m288,3,plant_soil,,moistureLevel: 0 state: 2[0m
+[32m288,4,nature_model,sun_out,0[0m
+[33m288,4,nature_model,,timeLeftToRain: 5 timeLeftToSun: 12 sunStatus: 0 state: 0[0m
+[33m288,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 0 state: 2[0m
+[32m288,3,plant_soil,out_soil_status,0[0m
+[33m288,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[32m288,2,plant_stem,out_event,0[0m
+[33m288,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m290,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m292,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m293,4,nature_model,,timeLeftToRain: 5 timeLeftToSun: 12 sunStatus: 0 state: 2[0m
+[33m293,3,plant_soil,,moistureLevel: 1 state: 1[0m
+[32m293,4,nature_model,rain_out,1[0m
+[33m293,4,nature_model,,timeLeftToRain: 6 timeLeftToSun: 7 sunStatus: 0 state: 0[0m
+[33m293,3,plant_soil,,moistureLevel: 1 state: 0[0m
+[33m294,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m296,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m298,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m299,4,nature_model,,timeLeftToRain: 6 timeLeftToSun: 7 sunStatus: 0 state: 2[0m
+[33m299,3,plant_soil,,moistureLevel: 2 state: 1[0m
+[32m299,4,nature_model,rain_out,1[0m
+[33m299,4,nature_model,,timeLeftToRain: 7 timeLeftToSun: 1 sunStatus: 0 state: 0[0m
+[33m299,3,plant_soil,,moistureLevel: 2 state: 0[0m
+[33m300,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m300,4,nature_model,,timeLeftToRain: 7 timeLeftToSun: 1 sunStatus: 1 state: 1[0m
+[33m300,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[32m300,4,nature_model,sun_out,1[0m
+[33m300,4,nature_model,,timeLeftToRain: 6 timeLeftToSun: 12 sunStatus: 1 state: 0[0m
+[33m302,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m302,2,plant_stem,out_request,1[0m
+[33m302,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m302,3,plant_soil,,moistureLevel: 2 state: 2[0m
+[33m302,2,plant_stem,,stressLevel: 4 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m302,3,plant_soil,out_soil_status,1[0m
+[33m302,3,plant_soil,,moistureLevel: 1 state: 0[0m
+[33m302,2,plant_stem,,stressLevel: 4 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m304,2,plant_stem,,stressLevel: 4 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m304,2,plant_stem,out_request,1[0m
+[33m304,2,plant_stem,,stressLevel: 4 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m304,3,plant_soil,,moistureLevel: 1 state: 2[0m
+[33m304,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m304,3,plant_soil,out_soil_status,1[0m
+[33m304,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m304,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m306,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[33m306,4,nature_model,,timeLeftToRain: 6 timeLeftToSun: 12 sunStatus: 1 state: 2[0m
+[32m306,2,plant_stem,out_request,1[0m
+[33m306,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m306,3,plant_soil,,moistureLevel: 1 state: 2[0m
+[32m306,4,nature_model,rain_out,1[0m
+[33m306,4,nature_model,,timeLeftToRain: 7 timeLeftToSun: 6 sunStatus: 1 state: 0[0m
+[33m306,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m306,3,plant_soil,out_soil_status,1[0m
+[33m306,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m306,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m308,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m308,2,plant_stem,out_request,1[0m
+[33m308,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m308,3,plant_soil,,moistureLevel: 0 state: 2[0m
+[33m308,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m308,3,plant_soil,out_soil_status,0[0m
+[33m308,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m308,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m310,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m310,2,plant_stem,out_request,1[0m
+[33m310,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m310,3,plant_soil,,moistureLevel: 0 state: 2[0m
+[33m310,2,plant_stem,,stressLevel: 4 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m310,3,plant_soil,out_soil_status,0[0m
+[33m310,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m310,2,plant_stem,,stressLevel: 4 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m312,2,plant_stem,,stressLevel: 4 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[33m312,4,nature_model,,timeLeftToRain: 7 timeLeftToSun: 6 sunStatus: 0 state: 1[0m
+[32m312,2,plant_stem,out_request,1[0m
+[33m312,2,plant_stem,,stressLevel: 4 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m312,3,plant_soil,,moistureLevel: 0 state: 2[0m
+[32m312,4,nature_model,sun_out,0[0m
+[33m312,4,nature_model,,timeLeftToRain: 1 timeLeftToSun: 12 sunStatus: 0 state: 0[0m
+[33m312,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 0 state: 2[0m
+[32m312,3,plant_soil,out_soil_status,0[0m
+[33m312,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[32m312,2,plant_stem,out_event,0[0m
+[33m312,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m313,4,nature_model,,timeLeftToRain: 1 timeLeftToSun: 12 sunStatus: 0 state: 2[0m
+[33m313,3,plant_soil,,moistureLevel: 1 state: 1[0m
+[32m313,4,nature_model,rain_out,1[0m
+[33m313,4,nature_model,,timeLeftToRain: 9 timeLeftToSun: 11 sunStatus: 0 state: 0[0m
+[33m313,3,plant_soil,,moistureLevel: 1 state: 0[0m
+[33m314,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m316,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m318,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m320,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m322,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m322,4,nature_model,,timeLeftToRain: 9 timeLeftToSun: 11 sunStatus: 0 state: 2[0m
+[33m322,3,plant_soil,,moistureLevel: 2 state: 1[0m
+[32m322,4,nature_model,rain_out,1[0m
+[33m322,4,nature_model,,timeLeftToRain: 8 timeLeftToSun: 2 sunStatus: 0 state: 0[0m
+[33m322,3,plant_soil,,moistureLevel: 2 state: 0[0m
+[33m324,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m324,4,nature_model,,timeLeftToRain: 8 timeLeftToSun: 2 sunStatus: 1 state: 1[0m
+[33m324,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[32m324,4,nature_model,sun_out,1[0m
+[33m324,4,nature_model,,timeLeftToRain: 6 timeLeftToSun: 12 sunStatus: 1 state: 0[0m
+[33m326,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m326,2,plant_stem,out_request,1[0m
+[33m326,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m326,3,plant_soil,,moistureLevel: 2 state: 2[0m
+[33m326,2,plant_stem,,stressLevel: 4 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m326,3,plant_soil,out_soil_status,1[0m
+[33m326,3,plant_soil,,moistureLevel: 1 state: 0[0m
+[33m326,2,plant_stem,,stressLevel: 4 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m328,2,plant_stem,,stressLevel: 4 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m328,2,plant_stem,out_request,1[0m
+[33m328,2,plant_stem,,stressLevel: 4 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m328,3,plant_soil,,moistureLevel: 1 state: 2[0m
+[33m328,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m328,3,plant_soil,out_soil_status,1[0m
+[33m328,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m328,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m330,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[33m330,4,nature_model,,timeLeftToRain: 6 timeLeftToSun: 12 sunStatus: 1 state: 2[0m
+[32m330,2,plant_stem,out_request,1[0m
+[33m330,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m330,3,plant_soil,,moistureLevel: 1 state: 2[0m
+[32m330,4,nature_model,rain_out,1[0m
+[33m330,4,nature_model,,timeLeftToRain: 6 timeLeftToSun: 6 sunStatus: 1 state: 0[0m
+[33m330,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m330,3,plant_soil,out_soil_status,1[0m
+[33m330,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m330,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m332,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m332,2,plant_stem,out_request,1[0m
+[33m332,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m332,3,plant_soil,,moistureLevel: 0 state: 2[0m
+[33m332,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m332,3,plant_soil,out_soil_status,0[0m
+[33m332,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m332,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m334,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m334,2,plant_stem,out_request,1[0m
+[33m334,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m334,3,plant_soil,,moistureLevel: 0 state: 2[0m
+[33m334,2,plant_stem,,stressLevel: 4 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m334,3,plant_soil,out_soil_status,0[0m
+[33m334,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m334,2,plant_stem,,stressLevel: 4 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m336,2,plant_stem,,stressLevel: 4 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[33m336,4,nature_model,,timeLeftToRain: 6 timeLeftToSun: 6 sunStatus: 0 state: 1[0m
+[32m336,2,plant_stem,out_request,1[0m
+[33m336,2,plant_stem,,stressLevel: 4 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m336,3,plant_soil,,moistureLevel: 0 state: 2[0m
+[32m336,4,nature_model,sun_out,0[0m
+[33m336,4,nature_model,,timeLeftToRain: 0 timeLeftToSun: 12 sunStatus: 0 state: 0[0m
+[33m336,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 0 state: 2[0m
+[32m336,3,plant_soil,out_soil_status,0[0m
+[33m336,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m336,4,nature_model,,timeLeftToRain: 0 timeLeftToSun: 12 sunStatus: 0 state: 2[0m
+[32m336,2,plant_stem,out_event,0[0m
+[33m336,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m336,3,plant_soil,,moistureLevel: 1 state: 1[0m
+[32m336,4,nature_model,rain_out,1[0m
+[33m336,4,nature_model,,timeLeftToRain: 9 timeLeftToSun: 12 sunStatus: 0 state: 0[0m
+[33m336,3,plant_soil,,moistureLevel: 1 state: 0[0m
+[33m338,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m340,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m342,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m344,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m345,4,nature_model,,timeLeftToRain: 9 timeLeftToSun: 12 sunStatus: 0 state: 2[0m
+[33m345,3,plant_soil,,moistureLevel: 2 state: 1[0m
+[32m345,4,nature_model,rain_out,1[0m
+[33m345,4,nature_model,,timeLeftToRain: 5 timeLeftToSun: 3 sunStatus: 0 state: 0[0m
+[33m345,3,plant_soil,,moistureLevel: 2 state: 0[0m
+[33m346,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m348,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m348,4,nature_model,,timeLeftToRain: 5 timeLeftToSun: 3 sunStatus: 1 state: 1[0m
+[33m348,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[32m348,4,nature_model,sun_out,1[0m
+[33m348,4,nature_model,,timeLeftToRain: 2 timeLeftToSun: 12 sunStatus: 1 state: 0[0m
+[33m350,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[33m350,4,nature_model,,timeLeftToRain: 2 timeLeftToSun: 12 sunStatus: 1 state: 2[0m
+[32m350,2,plant_stem,out_request,1[0m
+[33m350,2,plant_stem,,stressLevel: 5 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m350,3,plant_soil,,moistureLevel: 3 state: 2[0m
+[32m350,4,nature_model,rain_out,1[0m
+[33m350,4,nature_model,,timeLeftToRain: 8 timeLeftToSun: 10 sunStatus: 1 state: 0[0m
+[33m350,2,plant_stem,,stressLevel: 4 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m350,3,plant_soil,out_soil_status,1[0m
+[33m350,3,plant_soil,,moistureLevel: 2 state: 0[0m
+[33m350,2,plant_stem,,stressLevel: 4 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m352,2,plant_stem,,stressLevel: 4 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m352,2,plant_stem,out_request,1[0m
+[33m352,2,plant_stem,,stressLevel: 4 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m352,3,plant_soil,,moistureLevel: 2 state: 2[0m
+[33m352,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m352,3,plant_soil,out_soil_status,1[0m
+[33m352,3,plant_soil,,moistureLevel: 1 state: 0[0m
+[33m352,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m354,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m354,2,plant_stem,out_request,1[0m
+[33m354,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m354,3,plant_soil,,moistureLevel: 1 state: 2[0m
+[33m354,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m354,3,plant_soil,out_soil_status,1[0m
+[33m354,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m354,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m356,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m356,2,plant_stem,out_request,1[0m
+[33m356,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m356,3,plant_soil,,moistureLevel: 0 state: 2[0m
+[33m356,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m356,3,plant_soil,out_soil_status,0[0m
+[33m356,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m356,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m358,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[33m358,4,nature_model,,timeLeftToRain: 8 timeLeftToSun: 10 sunStatus: 1 state: 2[0m
+[32m358,2,plant_stem,out_request,1[0m
+[33m358,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m358,3,plant_soil,,moistureLevel: 1 state: 2[0m
+[32m358,4,nature_model,rain_out,1[0m
+[33m358,4,nature_model,,timeLeftToRain: 7 timeLeftToSun: 2 sunStatus: 1 state: 0[0m
+[33m358,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m358,3,plant_soil,out_soil_status,1[0m
+[33m358,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m358,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m360,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[33m360,4,nature_model,,timeLeftToRain: 7 timeLeftToSun: 2 sunStatus: 0 state: 1[0m
+[32m360,2,plant_stem,out_request,1[0m
+[33m360,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m360,3,plant_soil,,moistureLevel: 0 state: 2[0m
+[32m360,4,nature_model,sun_out,0[0m
+[33m360,4,nature_model,,timeLeftToRain: 5 timeLeftToSun: 12 sunStatus: 0 state: 0[0m
+[33m360,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 2[0m
+[32m360,3,plant_soil,out_soil_status,0[0m
+[33m360,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m360,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m362,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m364,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m365,4,nature_model,,timeLeftToRain: 5 timeLeftToSun: 12 sunStatus: 0 state: 2[0m
+[33m365,3,plant_soil,,moistureLevel: 1 state: 1[0m
+[32m365,4,nature_model,rain_out,1[0m
+[33m365,4,nature_model,,timeLeftToRain: 9 timeLeftToSun: 7 sunStatus: 0 state: 0[0m
+[33m365,3,plant_soil,,moistureLevel: 1 state: 0[0m
+[33m366,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m368,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m370,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m372,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m372,4,nature_model,,timeLeftToRain: 9 timeLeftToSun: 7 sunStatus: 1 state: 1[0m
+[33m372,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[32m372,4,nature_model,sun_out,1[0m
+[33m372,4,nature_model,,timeLeftToRain: 2 timeLeftToSun: 12 sunStatus: 1 state: 0[0m
+[33m374,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[33m374,4,nature_model,,timeLeftToRain: 2 timeLeftToSun: 12 sunStatus: 1 state: 2[0m
+[32m374,2,plant_stem,out_request,1[0m
+[33m374,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m374,3,plant_soil,,moistureLevel: 2 state: 2[0m
+[32m374,4,nature_model,rain_out,1[0m
+[33m374,4,nature_model,,timeLeftToRain: 6 timeLeftToSun: 10 sunStatus: 1 state: 0[0m
+[33m374,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m374,3,plant_soil,out_soil_status,1[0m
+[33m374,3,plant_soil,,moistureLevel: 1 state: 0[0m
+[33m374,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m376,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m376,2,plant_stem,out_request,1[0m
+[33m376,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m376,3,plant_soil,,moistureLevel: 1 state: 2[0m
+[33m376,2,plant_stem,,stressLevel: 1 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m376,3,plant_soil,out_soil_status,1[0m
+[33m376,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m376,2,plant_stem,,stressLevel: 1 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m378,2,plant_stem,,stressLevel: 1 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m378,2,plant_stem,out_request,1[0m
+[33m378,2,plant_stem,,stressLevel: 1 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m378,3,plant_soil,,moistureLevel: 0 state: 2[0m
+[33m378,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m378,3,plant_soil,out_soil_status,0[0m
+[33m378,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m378,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m380,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[33m380,4,nature_model,,timeLeftToRain: 6 timeLeftToSun: 10 sunStatus: 1 state: 2[0m
+[32m380,2,plant_stem,out_request,1[0m
+[33m380,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m380,3,plant_soil,,moistureLevel: 1 state: 2[0m
+[32m380,4,nature_model,rain_out,1[0m
+[33m380,4,nature_model,,timeLeftToRain: 8 timeLeftToSun: 4 sunStatus: 1 state: 0[0m
+[33m380,2,plant_stem,,stressLevel: 1 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m380,3,plant_soil,out_soil_status,1[0m
+[33m380,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m380,2,plant_stem,,stressLevel: 1 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m382,2,plant_stem,,stressLevel: 1 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m382,2,plant_stem,out_request,1[0m
+[33m382,2,plant_stem,,stressLevel: 1 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m382,3,plant_soil,,moistureLevel: 0 state: 2[0m
+[33m382,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m382,3,plant_soil,out_soil_status,0[0m
+[33m382,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m382,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m384,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[33m384,4,nature_model,,timeLeftToRain: 8 timeLeftToSun: 4 sunStatus: 0 state: 1[0m
+[32m384,2,plant_stem,out_request,1[0m
+[33m384,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m384,3,plant_soil,,moistureLevel: 0 state: 2[0m
+[32m384,4,nature_model,sun_out,0[0m
+[33m384,4,nature_model,,timeLeftToRain: 4 timeLeftToSun: 12 sunStatus: 0 state: 0[0m
+[33m384,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 2[0m
+[32m384,3,plant_soil,out_soil_status,0[0m
+[33m384,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m384,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m386,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m388,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m388,4,nature_model,,timeLeftToRain: 4 timeLeftToSun: 12 sunStatus: 0 state: 2[0m
+[33m388,3,plant_soil,,moistureLevel: 1 state: 1[0m
+[32m388,4,nature_model,rain_out,1[0m
+[33m388,4,nature_model,,timeLeftToRain: 7 timeLeftToSun: 8 sunStatus: 0 state: 0[0m
+[33m388,3,plant_soil,,moistureLevel: 1 state: 0[0m
+[33m390,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m392,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m394,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m395,4,nature_model,,timeLeftToRain: 7 timeLeftToSun: 8 sunStatus: 0 state: 2[0m
+[33m395,3,plant_soil,,moistureLevel: 2 state: 1[0m
+[32m395,4,nature_model,rain_out,1[0m
+[33m395,4,nature_model,,timeLeftToRain: 6 timeLeftToSun: 1 sunStatus: 0 state: 0[0m
+[33m395,3,plant_soil,,moistureLevel: 2 state: 0[0m
+[33m396,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m396,4,nature_model,,timeLeftToRain: 6 timeLeftToSun: 1 sunStatus: 1 state: 1[0m
+[33m396,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[32m396,4,nature_model,sun_out,1[0m
+[33m396,4,nature_model,,timeLeftToRain: 5 timeLeftToSun: 12 sunStatus: 1 state: 0[0m
+[33m398,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m398,2,plant_stem,out_request,1[0m
+[33m398,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m398,3,plant_soil,,moistureLevel: 2 state: 2[0m
+[33m398,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m398,3,plant_soil,out_soil_status,1[0m
+[33m398,3,plant_soil,,moistureLevel: 1 state: 0[0m
+[33m398,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m400,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m400,2,plant_stem,out_request,1[0m
+[33m400,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m400,3,plant_soil,,moistureLevel: 1 state: 2[0m
+[33m400,2,plant_stem,,stressLevel: 1 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m400,3,plant_soil,out_soil_status,1[0m
+[33m400,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m400,2,plant_stem,,stressLevel: 1 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m401,4,nature_model,,timeLeftToRain: 5 timeLeftToSun: 12 sunStatus: 1 state: 2[0m
+[33m401,3,plant_soil,,moistureLevel: 1 state: 1[0m
+[32m401,4,nature_model,rain_out,1[0m
+[33m401,4,nature_model,,timeLeftToRain: 9 timeLeftToSun: 7 sunStatus: 1 state: 0[0m
+[33m401,3,plant_soil,,moistureLevel: 1 state: 0[0m
+[33m402,2,plant_stem,,stressLevel: 1 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m402,2,plant_stem,out_request,1[0m
+[33m402,2,plant_stem,,stressLevel: 1 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m402,3,plant_soil,,moistureLevel: 1 state: 2[0m
+[33m402,2,plant_stem,,stressLevel: 0 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m402,3,plant_soil,out_soil_status,1[0m
+[33m402,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m402,2,plant_stem,,stressLevel: 0 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m404,2,plant_stem,,stressLevel: 0 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m404,2,plant_stem,out_request,1[0m
+[33m404,2,plant_stem,,stressLevel: 0 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m404,3,plant_soil,,moistureLevel: 0 state: 2[0m
+[33m404,2,plant_stem,,stressLevel: 1 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m404,3,plant_soil,out_soil_status,0[0m
+[33m404,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m404,2,plant_stem,,stressLevel: 1 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m406,2,plant_stem,,stressLevel: 1 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m406,2,plant_stem,out_request,1[0m
+[33m406,2,plant_stem,,stressLevel: 1 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m406,3,plant_soil,,moistureLevel: 0 state: 2[0m
+[33m406,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m406,3,plant_soil,out_soil_status,0[0m
+[33m406,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m406,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m408,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[33m408,4,nature_model,,timeLeftToRain: 9 timeLeftToSun: 7 sunStatus: 0 state: 1[0m
+[32m408,2,plant_stem,out_request,1[0m
+[33m408,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m408,3,plant_soil,,moistureLevel: 0 state: 2[0m
+[32m408,4,nature_model,sun_out,0[0m
+[33m408,4,nature_model,,timeLeftToRain: 2 timeLeftToSun: 12 sunStatus: 0 state: 0[0m
+[33m408,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 2[0m
+[32m408,3,plant_soil,out_soil_status,0[0m
+[33m408,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m408,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m410,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m410,4,nature_model,,timeLeftToRain: 2 timeLeftToSun: 12 sunStatus: 0 state: 2[0m
+[33m410,3,plant_soil,,moistureLevel: 1 state: 1[0m
+[32m410,4,nature_model,rain_out,1[0m
+[33m410,4,nature_model,,timeLeftToRain: 9 timeLeftToSun: 10 sunStatus: 0 state: 0[0m
+[33m410,3,plant_soil,,moistureLevel: 1 state: 0[0m
+[33m412,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m414,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m416,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m418,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m419,4,nature_model,,timeLeftToRain: 9 timeLeftToSun: 10 sunStatus: 0 state: 2[0m
+[33m419,3,plant_soil,,moistureLevel: 2 state: 1[0m
+[32m419,4,nature_model,rain_out,1[0m
+[33m419,4,nature_model,,timeLeftToRain: 8 timeLeftToSun: 1 sunStatus: 0 state: 0[0m
+[33m419,3,plant_soil,,moistureLevel: 2 state: 0[0m
+[33m420,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m420,4,nature_model,,timeLeftToRain: 8 timeLeftToSun: 1 sunStatus: 1 state: 1[0m
+[33m420,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[32m420,4,nature_model,sun_out,1[0m
+[33m420,4,nature_model,,timeLeftToRain: 7 timeLeftToSun: 12 sunStatus: 1 state: 0[0m
+[33m422,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m422,2,plant_stem,out_request,1[0m
+[33m422,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m422,3,plant_soil,,moistureLevel: 2 state: 2[0m
+[33m422,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m422,3,plant_soil,out_soil_status,1[0m
+[33m422,3,plant_soil,,moistureLevel: 1 state: 0[0m
+[33m422,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m424,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m424,2,plant_stem,out_request,1[0m
+[33m424,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m424,3,plant_soil,,moistureLevel: 1 state: 2[0m
+[33m424,2,plant_stem,,stressLevel: 1 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m424,3,plant_soil,out_soil_status,1[0m
+[33m424,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m424,2,plant_stem,,stressLevel: 1 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m426,2,plant_stem,,stressLevel: 1 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m426,2,plant_stem,out_request,1[0m
+[33m426,2,plant_stem,,stressLevel: 1 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m426,3,plant_soil,,moistureLevel: 0 state: 2[0m
+[33m426,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m426,3,plant_soil,out_soil_status,0[0m
+[33m426,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m426,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m427,4,nature_model,,timeLeftToRain: 7 timeLeftToSun: 12 sunStatus: 1 state: 2[0m
+[33m427,3,plant_soil,,moistureLevel: 1 state: 1[0m
+[32m427,4,nature_model,rain_out,1[0m
+[33m427,4,nature_model,,timeLeftToRain: 10 timeLeftToSun: 5 sunStatus: 1 state: 0[0m
+[33m427,3,plant_soil,,moistureLevel: 1 state: 0[0m
+[33m428,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m428,2,plant_stem,out_request,1[0m
+[33m428,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m428,3,plant_soil,,moistureLevel: 1 state: 2[0m
+[33m428,2,plant_stem,,stressLevel: 1 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m428,3,plant_soil,out_soil_status,1[0m
+[33m428,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m428,2,plant_stem,,stressLevel: 1 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m430,2,plant_stem,,stressLevel: 1 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m430,2,plant_stem,out_request,1[0m
+[33m430,2,plant_stem,,stressLevel: 1 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m430,3,plant_soil,,moistureLevel: 0 state: 2[0m
+[33m430,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m430,3,plant_soil,out_soil_status,0[0m
+[33m430,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m430,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m432,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[33m432,4,nature_model,,timeLeftToRain: 10 timeLeftToSun: 5 sunStatus: 0 state: 1[0m
+[32m432,2,plant_stem,out_request,1[0m
+[33m432,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m432,3,plant_soil,,moistureLevel: 0 state: 2[0m
+[32m432,4,nature_model,sun_out,0[0m
+[33m432,4,nature_model,,timeLeftToRain: 5 timeLeftToSun: 12 sunStatus: 0 state: 0[0m
+[33m432,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 2[0m
+[32m432,3,plant_soil,out_soil_status,0[0m
+[33m432,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m432,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m434,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m436,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m437,4,nature_model,,timeLeftToRain: 5 timeLeftToSun: 12 sunStatus: 0 state: 2[0m
+[33m437,3,plant_soil,,moistureLevel: 1 state: 1[0m
+[32m437,4,nature_model,rain_out,1[0m
+[33m437,4,nature_model,,timeLeftToRain: 8 timeLeftToSun: 7 sunStatus: 0 state: 0[0m
+[33m437,3,plant_soil,,moistureLevel: 1 state: 0[0m
+[33m438,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m440,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m442,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m444,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m444,4,nature_model,,timeLeftToRain: 8 timeLeftToSun: 7 sunStatus: 1 state: 1[0m
+[33m444,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[32m444,4,nature_model,sun_out,1[0m
+[33m444,4,nature_model,,timeLeftToRain: 1 timeLeftToSun: 12 sunStatus: 1 state: 0[0m
+[33m445,4,nature_model,,timeLeftToRain: 1 timeLeftToSun: 12 sunStatus: 1 state: 2[0m
+[33m445,3,plant_soil,,moistureLevel: 2 state: 1[0m
+[32m445,4,nature_model,rain_out,1[0m
+[33m445,4,nature_model,,timeLeftToRain: 7 timeLeftToSun: 11 sunStatus: 1 state: 0[0m
+[33m445,3,plant_soil,,moistureLevel: 2 state: 0[0m
+[33m446,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m446,2,plant_stem,out_request,1[0m
+[33m446,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m446,3,plant_soil,,moistureLevel: 2 state: 2[0m
+[33m446,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m446,3,plant_soil,out_soil_status,1[0m
+[33m446,3,plant_soil,,moistureLevel: 1 state: 0[0m
+[33m446,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m448,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m448,2,plant_stem,out_request,1[0m
+[33m448,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m448,3,plant_soil,,moistureLevel: 1 state: 2[0m
+[33m448,2,plant_stem,,stressLevel: 1 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m448,3,plant_soil,out_soil_status,1[0m
+[33m448,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m448,2,plant_stem,,stressLevel: 1 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m450,2,plant_stem,,stressLevel: 1 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m450,2,plant_stem,out_request,1[0m
+[33m450,2,plant_stem,,stressLevel: 1 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m450,3,plant_soil,,moistureLevel: 0 state: 2[0m
+[33m450,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m450,3,plant_soil,out_soil_status,0[0m
+[33m450,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m450,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m452,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[33m452,4,nature_model,,timeLeftToRain: 7 timeLeftToSun: 11 sunStatus: 1 state: 2[0m
+[32m452,2,plant_stem,out_request,1[0m
+[33m452,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m452,3,plant_soil,,moistureLevel: 1 state: 2[0m
+[32m452,4,nature_model,rain_out,1[0m
+[33m452,4,nature_model,,timeLeftToRain: 6 timeLeftToSun: 4 sunStatus: 1 state: 0[0m
+[33m452,2,plant_stem,,stressLevel: 1 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m452,3,plant_soil,out_soil_status,1[0m
+[33m452,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m452,2,plant_stem,,stressLevel: 1 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m454,2,plant_stem,,stressLevel: 1 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m454,2,plant_stem,out_request,1[0m
+[33m454,2,plant_stem,,stressLevel: 1 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m454,3,plant_soil,,moistureLevel: 0 state: 2[0m
+[33m454,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m454,3,plant_soil,out_soil_status,0[0m
+[33m454,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m454,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m456,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[33m456,4,nature_model,,timeLeftToRain: 6 timeLeftToSun: 4 sunStatus: 0 state: 1[0m
+[32m456,2,plant_stem,out_request,1[0m
+[33m456,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m456,3,plant_soil,,moistureLevel: 0 state: 2[0m
+[32m456,4,nature_model,sun_out,0[0m
+[33m456,4,nature_model,,timeLeftToRain: 2 timeLeftToSun: 12 sunStatus: 0 state: 0[0m
+[33m456,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 2[0m
+[32m456,3,plant_soil,out_soil_status,0[0m
+[33m456,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m456,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m458,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m458,4,nature_model,,timeLeftToRain: 2 timeLeftToSun: 12 sunStatus: 0 state: 2[0m
+[33m458,3,plant_soil,,moistureLevel: 1 state: 1[0m
+[32m458,4,nature_model,rain_out,1[0m
+[33m458,4,nature_model,,timeLeftToRain: 8 timeLeftToSun: 10 sunStatus: 0 state: 0[0m
+[33m458,3,plant_soil,,moistureLevel: 1 state: 0[0m
+[33m460,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m462,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m464,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m466,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m466,4,nature_model,,timeLeftToRain: 8 timeLeftToSun: 10 sunStatus: 0 state: 2[0m
+[33m466,3,plant_soil,,moistureLevel: 2 state: 1[0m
+[32m466,4,nature_model,rain_out,1[0m
+[33m466,4,nature_model,,timeLeftToRain: 7 timeLeftToSun: 2 sunStatus: 0 state: 0[0m
+[33m466,3,plant_soil,,moistureLevel: 2 state: 0[0m
+[33m468,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m468,4,nature_model,,timeLeftToRain: 7 timeLeftToSun: 2 sunStatus: 1 state: 1[0m
+[33m468,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[32m468,4,nature_model,sun_out,1[0m
+[33m468,4,nature_model,,timeLeftToRain: 5 timeLeftToSun: 12 sunStatus: 1 state: 0[0m
+[33m470,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m470,2,plant_stem,out_request,1[0m
+[33m470,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m470,3,plant_soil,,moistureLevel: 2 state: 2[0m
+[33m470,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m470,3,plant_soil,out_soil_status,1[0m
+[33m470,3,plant_soil,,moistureLevel: 1 state: 0[0m
+[33m470,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m472,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m472,2,plant_stem,out_request,1[0m
+[33m472,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m472,3,plant_soil,,moistureLevel: 1 state: 2[0m
+[33m472,2,plant_stem,,stressLevel: 1 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m472,3,plant_soil,out_soil_status,1[0m
+[33m472,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m472,2,plant_stem,,stressLevel: 1 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m473,4,nature_model,,timeLeftToRain: 5 timeLeftToSun: 12 sunStatus: 1 state: 2[0m
+[33m473,3,plant_soil,,moistureLevel: 1 state: 1[0m
+[32m473,4,nature_model,rain_out,1[0m
+[33m473,4,nature_model,,timeLeftToRain: 9 timeLeftToSun: 7 sunStatus: 1 state: 0[0m
+[33m473,3,plant_soil,,moistureLevel: 1 state: 0[0m
+[33m474,2,plant_stem,,stressLevel: 1 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m474,2,plant_stem,out_request,1[0m
+[33m474,2,plant_stem,,stressLevel: 1 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m474,3,plant_soil,,moistureLevel: 1 state: 2[0m
+[33m474,2,plant_stem,,stressLevel: 0 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m474,3,plant_soil,out_soil_status,1[0m
+[33m474,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m474,2,plant_stem,,stressLevel: 0 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m476,2,plant_stem,,stressLevel: 0 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m476,2,plant_stem,out_request,1[0m
+[33m476,2,plant_stem,,stressLevel: 0 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m476,3,plant_soil,,moistureLevel: 0 state: 2[0m
+[33m476,2,plant_stem,,stressLevel: 1 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m476,3,plant_soil,out_soil_status,0[0m
+[33m476,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m476,2,plant_stem,,stressLevel: 1 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m478,2,plant_stem,,stressLevel: 1 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m478,2,plant_stem,out_request,1[0m
+[33m478,2,plant_stem,,stressLevel: 1 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m478,3,plant_soil,,moistureLevel: 0 state: 2[0m
+[33m478,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m478,3,plant_soil,out_soil_status,0[0m
+[33m478,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m478,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m480,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[33m480,4,nature_model,,timeLeftToRain: 9 timeLeftToSun: 7 sunStatus: 0 state: 1[0m
+[32m480,2,plant_stem,out_request,1[0m
+[33m480,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m480,3,plant_soil,,moistureLevel: 0 state: 2[0m
+[32m480,4,nature_model,sun_out,0[0m
+[33m480,4,nature_model,,timeLeftToRain: 2 timeLeftToSun: 12 sunStatus: 0 state: 0[0m
+[33m480,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 2[0m
+[32m480,3,plant_soil,out_soil_status,0[0m
+[33m480,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m480,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m482,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m482,4,nature_model,,timeLeftToRain: 2 timeLeftToSun: 12 sunStatus: 0 state: 2[0m
+[33m482,3,plant_soil,,moistureLevel: 1 state: 1[0m
+[32m482,4,nature_model,rain_out,1[0m
+[33m482,4,nature_model,,timeLeftToRain: 8 timeLeftToSun: 10 sunStatus: 0 state: 0[0m
+[33m482,3,plant_soil,,moistureLevel: 1 state: 0[0m
+[33m484,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m486,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m488,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m490,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m490,4,nature_model,,timeLeftToRain: 8 timeLeftToSun: 10 sunStatus: 0 state: 2[0m
+[33m490,3,plant_soil,,moistureLevel: 2 state: 1[0m
+[32m490,4,nature_model,rain_out,1[0m
+[33m490,4,nature_model,,timeLeftToRain: 7 timeLeftToSun: 2 sunStatus: 0 state: 0[0m
+[33m490,3,plant_soil,,moistureLevel: 2 state: 0[0m
+[33m492,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 0 state: 0[0m
+[33m492,4,nature_model,,timeLeftToRain: 7 timeLeftToSun: 2 sunStatus: 1 state: 1[0m
+[33m492,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[32m492,4,nature_model,sun_out,1[0m
+[33m492,4,nature_model,,timeLeftToRain: 5 timeLeftToSun: 12 sunStatus: 1 state: 0[0m
+[33m494,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m494,2,plant_stem,out_request,1[0m
+[33m494,2,plant_stem,,stressLevel: 3 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m494,3,plant_soil,,moistureLevel: 2 state: 2[0m
+[33m494,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m494,3,plant_soil,out_soil_status,1[0m
+[33m494,3,plant_soil,,moistureLevel: 1 state: 0[0m
+[33m494,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m496,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m496,2,plant_stem,out_request,1[0m
+[33m496,2,plant_stem,,stressLevel: 2 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m496,3,plant_soil,,moistureLevel: 1 state: 2[0m
+[33m496,2,plant_stem,,stressLevel: 1 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m496,3,plant_soil,out_soil_status,1[0m
+[33m496,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m496,2,plant_stem,,stressLevel: 1 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m497,4,nature_model,,timeLeftToRain: 5 timeLeftToSun: 12 sunStatus: 1 state: 2[0m
+[33m497,3,plant_soil,,moistureLevel: 1 state: 1[0m
+[32m497,4,nature_model,rain_out,1[0m
+[33m497,4,nature_model,,timeLeftToRain: 10 timeLeftToSun: 7 sunStatus: 1 state: 0[0m
+[33m497,3,plant_soil,,moistureLevel: 1 state: 0[0m
+[33m498,2,plant_stem,,stressLevel: 1 nutrientCount: 3 isDaytime: 1 state: 1[0m
+[32m498,2,plant_stem,out_request,1[0m
+[33m498,2,plant_stem,,stressLevel: 1 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m498,3,plant_soil,,moistureLevel: 1 state: 2[0m
+[33m498,2,plant_stem,,stressLevel: 0 nutrientCount: 3 isDaytime: 1 state: 2[0m
+[32m498,3,plant_soil,out_soil_status,1[0m
+[33m498,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m498,2,plant_stem,,stressLevel: 0 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m498,2,plant_stem,,stressLevel: 0 nutrientCount: 3 isDaytime: 1 state: 0[0m
+[33m498,3,plant_soil,,moistureLevel: 0 state: 0[0m
+[33m498,4,nature_model,,timeLeftToRain: 10 timeLeftToSun: 7 sunStatus: 1 state: 0[0m
+Greenhouse simulation completed.
