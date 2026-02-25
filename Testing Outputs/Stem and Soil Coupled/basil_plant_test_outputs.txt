@@ -1,0 +1,29 @@
+0,2,plant_stem,,stressLevel: 0 nutrientCount: 0 state: 0
+0,3,plant_soil,,moistureLevel: 0 state: 0
+0,4,sun_reader,,3
+0,5,rain_reader,,1
+
+1,3,plant_soil,,moistureLevel: 1 state: 1
+1,5,rain_reader,out,1
+1,5,rain_reader,,1
+1,3,plant_soil,,moistureLevel: 1 state: 0
+
+2,3,plant_soil,,moistureLevel: 2 state: 1
+2,5,rain_reader,out,1
+2,5,rain_reader,,inf
+2,3,plant_soil,,moistureLevel: 2 state: 0
+
+3,2,plant_stem,,stressLevel: 0 nutrientCount: 0 state: 1
+3,4,sun_reader,out,1
+3,4,sun_reader,,inf
+3,2,plant_stem,out_request,1
+3,2,plant_stem,,stressLevel: 0 nutrientCount: 0 state: 0
+3,3,plant_soil,,moistureLevel: 2 state: 2
+3,2,plant_stem,,stressLevel: 0 nutrientCount: 1 state: 2
+3,3,plant_soil,out_soil_status,1
+3,3,plant_soil,,moistureLevel: 1 state: 0
+3,2,plant_stem,,stressLevel: 0 nutrientCount: 1 state: 0
+3,2,plant_stem,,stressLevel: 0 nutrientCount: 1 state: 0
+3,3,plant_soil,,moistureLevel: 1 state: 0
+3,4,sun_reader,,inf
+3,5,rain_reader,,inf
