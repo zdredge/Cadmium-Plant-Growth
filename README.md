@@ -45,3 +45,20 @@ This project includes a standard `Makefile` to automate the build process.
 To compile the entire project, navigate to the project directory in your terminal and run:
 ```bash 
 make
+```
+## Testing
+The terminal commands to run the test classes for each model, atomic and coupled, are listed below:
+* **Nature**: make run_nature
+* **Soil**: make run_soil
+* **Plant Stem**: make run_stem
+* **Basil Plant**: make run_basil_plant
+* **Greenhouse**: make run_greenhouse
+
+Additionally, as discussed in the report there are a few test cases that outputs have not been included for as they were more exporitory in nature.
+The following is a set of instructions to reproduce each test.
+* **Varying Time Unit Simulations**: simply adjust the parameter of the call rootCoordinator.simulate(500.0) in `main.cpp` to your desired value
+* **Varying Threshold Value**:
+  * To change the stress threshold: adjust stressLevel in line 93 in `stem.hpp` to your desired value. In brief, lower values drive up the number of stress events, and higher values lead to more healing cycles.
+  * To change the growth threshold: adjust nutrientCoun on line 75 and 91 of `stem.hpp`. Increasing this value will limit the number of growth events, whereas decreasing it will slightly increase them.
+
+
