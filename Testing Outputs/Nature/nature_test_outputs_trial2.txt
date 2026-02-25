@@ -1,0 +1,68 @@
+0,1,nature_model,,timeLeftToRain: 6 timeLeftToSun: 12 sunStatus: 0 state: 0
+6,1,nature_model,,timeLeftToRain: 6 timeLeftToSun: 12 sunStatus: 0 state: 2
+6,1,nature_model,rain_out,1
+6,1,nature_model,,timeLeftToRain: 8 timeLeftToSun: 6 sunStatus: 0 state: 0
+12,1,nature_model,,timeLeftToRain: 8 timeLeftToSun: 6 sunStatus: 1 state: 1
+12,1,nature_model,sun_out,1
+12,1,nature_model,,timeLeftToRain: 2 timeLeftToSun: 12 sunStatus: 1 state: 0
+14,1,nature_model,,timeLeftToRain: 2 timeLeftToSun: 12 sunStatus: 1 state: 2
+14,1,nature_model,rain_out,1
+14,1,nature_model,,timeLeftToRain: 8 timeLeftToSun: 10 sunStatus: 1 state: 0
+22,1,nature_model,,timeLeftToRain: 8 timeLeftToSun: 10 sunStatus: 1 state: 2
+22,1,nature_model,rain_out,1
+22,1,nature_model,,timeLeftToRain: 6 timeLeftToSun: 2 sunStatus: 1 state: 0
+24,1,nature_model,,timeLeftToRain: 6 timeLeftToSun: 2 sunStatus: 0 state: 1
+24,1,nature_model,sun_out,0
+24,1,nature_model,,timeLeftToRain: 4 timeLeftToSun: 12 sunStatus: 0 state: 0
+28,1,nature_model,,timeLeftToRain: 4 timeLeftToSun: 12 sunStatus: 0 state: 2
+28,1,nature_model,rain_out,1
+28,1,nature_model,,timeLeftToRain: 8 timeLeftToSun: 8 sunStatus: 0 state: 0
+36,1,nature_model,,timeLeftToRain: 8 timeLeftToSun: 8 sunStatus: 1 state: 1
+36,1,nature_model,sun_out,1
+36,1,nature_model,,timeLeftToRain: 0 timeLeftToSun: 12 sunStatus: 1 state: 0
+36,1,nature_model,,timeLeftToRain: 0 timeLeftToSun: 12 sunStatus: 1 state: 2
+36,1,nature_model,rain_out,1
+36,1,nature_model,,timeLeftToRain: 5 timeLeftToSun: 12 sunStatus: 1 state: 0
+41,1,nature_model,,timeLeftToRain: 5 timeLeftToSun: 12 sunStatus: 1 state: 2
+41,1,nature_model,rain_out,1
+41,1,nature_model,,timeLeftToRain: 5 timeLeftToSun: 7 sunStatus: 1 state: 0
+46,1,nature_model,,timeLeftToRain: 5 timeLeftToSun: 7 sunStatus: 1 state: 2
+46,1,nature_model,rain_out,1
+46,1,nature_model,,timeLeftToRain: 10 timeLeftToSun: 2 sunStatus: 1 state: 0
+48,1,nature_model,,timeLeftToRain: 10 timeLeftToSun: 2 sunStatus: 0 state: 1
+48,1,nature_model,sun_out,0
+48,1,nature_model,,timeLeftToRain: 8 timeLeftToSun: 12 sunStatus: 0 state: 0
+56,1,nature_model,,timeLeftToRain: 8 timeLeftToSun: 12 sunStatus: 0 state: 2
+56,1,nature_model,rain_out,1
+56,1,nature_model,,timeLeftToRain: 6 timeLeftToSun: 4 sunStatus: 0 state: 0
+60,1,nature_model,,timeLeftToRain: 6 timeLeftToSun: 4 sunStatus: 1 state: 1
+60,1,nature_model,sun_out,1
+60,1,nature_model,,timeLeftToRain: 2 timeLeftToSun: 12 sunStatus: 1 state: 0
+62,1,nature_model,,timeLeftToRain: 2 timeLeftToSun: 12 sunStatus: 1 state: 2
+62,1,nature_model,rain_out,1
+62,1,nature_model,,timeLeftToRain: 6 timeLeftToSun: 10 sunStatus: 1 state: 0
+68,1,nature_model,,timeLeftToRain: 6 timeLeftToSun: 10 sunStatus: 1 state: 2
+68,1,nature_model,rain_out,1
+68,1,nature_model,,timeLeftToRain: 6 timeLeftToSun: 4 sunStatus: 1 state: 0
+72,1,nature_model,,timeLeftToRain: 6 timeLeftToSun: 4 sunStatus: 0 state: 1
+72,1,nature_model,sun_out,0
+72,1,nature_model,,timeLeftToRain: 2 timeLeftToSun: 12 sunStatus: 0 state: 0
+74,1,nature_model,,timeLeftToRain: 2 timeLeftToSun: 12 sunStatus: 0 state: 2
+74,1,nature_model,rain_out,1
+74,1,nature_model,,timeLeftToRain: 7 timeLeftToSun: 10 sunStatus: 0 state: 0
+81,1,nature_model,,timeLeftToRain: 7 timeLeftToSun: 10 sunStatus: 0 state: 2
+81,1,nature_model,rain_out,1
+81,1,nature_model,,timeLeftToRain: 8 timeLeftToSun: 3 sunStatus: 0 state: 0
+84,1,nature_model,,timeLeftToRain: 8 timeLeftToSun: 3 sunStatus: 1 state: 1
+84,1,nature_model,sun_out,1
+84,1,nature_model,,timeLeftToRain: 5 timeLeftToSun: 12 sunStatus: 1 state: 0
+89,1,nature_model,,timeLeftToRain: 5 timeLeftToSun: 12 sunStatus: 1 state: 2
+89,1,nature_model,rain_out,1
+89,1,nature_model,,timeLeftToRain: 5 timeLeftToSun: 7 sunStatus: 1 state: 0
+94,1,nature_model,,timeLeftToRain: 5 timeLeftToSun: 7 sunStatus: 1 state: 2
+94,1,nature_model,rain_out,1
+94,1,nature_model,,timeLeftToRain: 9 timeLeftToSun: 2 sunStatus: 1 state: 0
+96,1,nature_model,,timeLeftToRain: 9 timeLeftToSun: 2 sunStatus: 0 state: 1
+96,1,nature_model,sun_out,0
+96,1,nature_model,,timeLeftToRain: 7 timeLeftToSun: 12 sunStatus: 0 state: 0
+96,1,nature_model,,timeLeftToRain: 7 timeLeftToSun: 12 sunStatus: 0 state: 0

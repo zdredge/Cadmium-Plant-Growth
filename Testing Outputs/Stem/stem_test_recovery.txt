@@ -1,0 +1,91 @@
+time,model_id,model_name,port_name,data
+0,1,stem_model,,stressLevel: 0 nutrientCount: 0 is_daytime: 0 state: 0
+0,2,response_reader,,1
+0,3,sun_reader,,inf
+1,1,stem_model,,stressLevel: 1 nutrientCount: 0 is_daytime: 0 state: 2
+1,2,response_reader,out,0
+1,2,response_reader,,1
+1,1,stem_model,,stressLevel: 1 nutrientCount: 0 is_daytime: 0 state: 0
+2,1,stem_model,,stressLevel: 2 nutrientCount: 0 is_daytime: 0 state: 2
+2,2,response_reader,out,0
+2,2,response_reader,,1
+2,1,stem_model,,stressLevel: 2 nutrientCount: 0 is_daytime: 0 state: 0
+3,1,stem_model,,stressLevel: 3 nutrientCount: 0 is_daytime: 0 state: 2
+3,2,response_reader,out,0
+3,2,response_reader,,1
+3,1,stem_model,,stressLevel: 3 nutrientCount: 0 is_daytime: 0 state: 0
+4,1,stem_model,,stressLevel: 4 nutrientCount: 0 is_daytime: 0 state: 2
+4,2,response_reader,out,0
+4,2,response_reader,,1
+4,1,stem_model,,stressLevel: 4 nutrientCount: 0 is_daytime: 0 state: 0
+5,1,stem_model,,stressLevel: 5 nutrientCount: 0 is_daytime: 0 state: 2
+5,2,response_reader,out,0
+5,2,response_reader,,1
+5,1,stem_model,out_event,0
+5,1,stem_model,,stressLevel: 5 nutrientCount: 0 is_daytime: 0 state: 0
+6,1,stem_model,,stressLevel: 4 nutrientCount: 0 is_daytime: 0 state: 2
+6,2,response_reader,out,1
+6,2,response_reader,,1
+6,1,stem_model,,stressLevel: 4 nutrientCount: 0 is_daytime: 0 state: 0
+7,1,stem_model,,stressLevel: 3 nutrientCount: 0 is_daytime: 0 state: 2
+7,2,response_reader,out,1
+7,2,response_reader,,1
+7,1,stem_model,,stressLevel: 3 nutrientCount: 0 is_daytime: 0 state: 0
+8,1,stem_model,,stressLevel: 2 nutrientCount: 0 is_daytime: 0 state: 2
+8,2,response_reader,out,1
+8,2,response_reader,,1
+8,1,stem_model,,stressLevel: 2 nutrientCount: 0 is_daytime: 0 state: 0
+9,1,stem_model,,stressLevel: 1 nutrientCount: 0 is_daytime: 0 state: 2
+9,2,response_reader,out,1
+9,2,response_reader,,1
+9,1,stem_model,,stressLevel: 1 nutrientCount: 0 is_daytime: 0 state: 0
+10,1,stem_model,,stressLevel: 0 nutrientCount: 0 is_daytime: 0 state: 2
+10,2,response_reader,out,1
+10,2,response_reader,,1
+10,1,stem_model,,stressLevel: 0 nutrientCount: 0 is_daytime: 0 state: 0
+11,1,stem_model,,stressLevel: 0 nutrientCount: 1 is_daytime: 0 state: 2
+11,2,response_reader,out,1
+11,2,response_reader,,1
+11,1,stem_model,,stressLevel: 0 nutrientCount: 1 is_daytime: 0 state: 0
+12,1,stem_model,,stressLevel: 0 nutrientCount: 2 is_daytime: 0 state: 2
+12,2,response_reader,out,1
+12,2,response_reader,,1
+12,1,stem_model,,stressLevel: 0 nutrientCount: 2 is_daytime: 0 state: 0
+13,1,stem_model,,stressLevel: 0 nutrientCount: 3 is_daytime: 0 state: 2
+13,2,response_reader,out,1
+13,2,response_reader,,1
+13,1,stem_model,,stressLevel: 0 nutrientCount: 3 is_daytime: 0 state: 0
+14,1,stem_model,,stressLevel: 0 nutrientCount: 4 is_daytime: 0 state: 2
+14,2,response_reader,out,1
+14,2,response_reader,,1
+14,1,stem_model,,stressLevel: 0 nutrientCount: 4 is_daytime: 0 state: 0
+15,1,stem_model,,stressLevel: 0 nutrientCount: 5 is_daytime: 0 state: 2
+15,2,response_reader,out,1
+15,2,response_reader,,1
+15,1,stem_model,,stressLevel: 0 nutrientCount: 5 is_daytime: 0 state: 0
+16,1,stem_model,,stressLevel: 0 nutrientCount: 6 is_daytime: 0 state: 2
+16,2,response_reader,out,1
+16,2,response_reader,,1
+16,1,stem_model,,stressLevel: 0 nutrientCount: 6 is_daytime: 0 state: 0
+17,1,stem_model,,stressLevel: 0 nutrientCount: 7 is_daytime: 0 state: 2
+17,2,response_reader,out,1
+17,2,response_reader,,1
+17,1,stem_model,,stressLevel: 0 nutrientCount: 7 is_daytime: 0 state: 0
+18,1,stem_model,,stressLevel: 0 nutrientCount: 8 is_daytime: 0 state: 2
+18,2,response_reader,out,1
+18,2,response_reader,,1
+18,1,stem_model,,stressLevel: 0 nutrientCount: 8 is_daytime: 0 state: 0
+19,1,stem_model,,stressLevel: 0 nutrientCount: 9 is_daytime: 0 state: 2
+19,2,response_reader,out,1
+19,2,response_reader,,1
+19,1,stem_model,,stressLevel: 0 nutrientCount: 9 is_daytime: 0 state: 0
+20,1,stem_model,,stressLevel: 0 nutrientCount: 10 is_daytime: 0 state: 2
+20,2,response_reader,out,1
+20,2,response_reader,,inf
+20,1,stem_model,out_event,1
+20,1,stem_model,,stressLevel: 0 nutrientCount: 0 is_daytime: 0 state: 0
+22,1,stem_model,,stressLevel: 0 nutrientCount: 0 is_daytime: 0 state: 0
+24,1,stem_model,,stressLevel: 0 nutrientCount: 0 is_daytime: 0 state: 0
+24,1,stem_model,,stressLevel: 0 nutrientCount: 0 is_daytime: 0 state: 0
+24,2,response_reader,,inf
+24,3,sun_reader,,inf
