@@ -17,18 +17,18 @@ struct top_test_soil : public Coupled {
     top_test_soil(const std::string& id) : Coupled(id) {
         out_status_test = addOutPort<int>("out_status_test");
 
-        // 1. Instantiate the Input Readers pointing to your text files
-        auto rain_reader = addComponent<cadmium::lib::IEStream<int>>("rain_reader", "inputs/soil_input_rain.txt");
-        auto request_reader = addComponent<cadmium::lib::IEStream<int>>("request_reader", "inputs/soil_input_request.txt");
+        //Instantiate the Input Readers pointing to your text files
+        auto rain_reader = addComponent<cadmium::lib::IEStream<int>>("rain_reader", "input_data/soil_input_rain.txt");
+        auto request_reader = addComponent<cadmium::lib::IEStream<int>>("request_reader", "input_data/soil_input_request.txt");
         
-        // 2. Instantiate the Soil atomic model
+        //Instantiate the Soil atomic model
         auto soil_model = addComponent<soil>("soil_model");
 
-        // 3. EIC: Couple the file readers to the Soil's input ports
+        // EIC: Couple the file readers to the Soil's input ports
         addCoupling(rain_reader->out, soil_model->in_rain);
         addCoupling(request_reader->out, soil_model->in_request);
         
-        // 4. EOC: Couple the Soil's output to the test harness output
+        // EOC: Couple the Soil's output to the test harness output
         addCoupling(soil_model->out_soil_status, out_status_test);
     }
 };
@@ -40,8 +40,8 @@ struct top_test_soil_concurrent : public Coupled {
         out_status_test = addOutPort<int>("out_status_test");
 
         // Instantiate the readers using the new concurrent request file
-        auto rain_reader = addComponent<cadmium::lib::IEStream<int>>("rain_reader_concurrent", "inputs/soil_input_rain.txt"); 
-        auto request_reader = addComponent<cadmium::lib::IEStream<int>>("request_reader_concurrent", "inputs/soil_input_request_concurrent.txt"); 
+        auto rain_reader = addComponent<cadmium::lib::IEStream<int>>("rain_reader_concurrent", "input_data/soil_input_rain.txt"); 
+        auto request_reader = addComponent<cadmium::lib::IEStream<int>>("request_reader_concurrent", "input_data/soil_input_request_concurrent.txt"); 
         
         // Instantiate the Soil atomic model
         auto soil_model = addComponent<soil>("soil_model_concurrent");

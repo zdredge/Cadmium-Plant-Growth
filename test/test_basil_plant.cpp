@@ -20,8 +20,8 @@ struct top_test_basil_plant : public Coupled {
         out_event_test = addOutPort<int>("out_event_test");
 
         // Input readers
-        auto rain_reader = addComponent<cadmium::lib::IEStream<int>>("rain_reader", "inputs/basil_input_rain.txt");
-        auto sun_reader = addComponent<cadmium::lib::IEStream<int>>("sun_reader", "inputs/basil_input_sun.txt");
+        auto rain_reader = addComponent<cadmium::lib::IEStream<int>>("rain_reader", "input_data/basil_input_rain.txt");
+        auto sun_reader = addComponent<cadmium::lib::IEStream<int>>("sun_reader", "input_data/basil_input_sun.txt");
 
         // Basil plant coupled model under test
         auto plant = addComponent<basil_plant>("plant_model");

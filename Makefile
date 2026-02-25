@@ -5,13 +5,13 @@ CXXFLAGS     = -std=c++17 -Wall -Wextra
 # Include paths
 CADMIUM_INCLUDE  = /home/zdredge/cadmium_v2/include
 PROJECT_INCLUDE  = main/include
-INCLUDES         = -I$(CADMIUM_INCLUDE) -I$(PROJECT_INCLUDE)
+INCLUDES         = -I$(CADMIUM_INCLUDE) -Iatomics -Icoupled
 
 # Directories
 BIN_DIR = bin
 
 # Header dependencies
-HEADERS = $(wildcard $(PROJECT_INCLUDE)/*.hpp)
+HEADERS = $(wildcard atomics/*.hpp) $(wildcard coupled/*.hpp)
 
 # Default target
 all: test_nature test_soil test_stem test_basil_plant greenhouse
@@ -33,15 +33,15 @@ test_basil_plant: test/test_basil_plant.cpp $(HEADERS) | $(BIN_DIR)
 	$(CXX) $(CXXFLAGS) $(INCLUDES) -o $(BIN_DIR)/test_basil_plant test/test_basil_plant.cpp
 
 # Build greenhouse
-greenhouse: $(PROJECT_INCLUDE)/main.cpp $(HEADERS) | $(BIN_DIR)
-	$(CXX) $(CXXFLAGS) $(INCLUDES) -o $(BIN_DIR)/greenhouse $(PROJECT_INCLUDE)/main.cpp
+greenhouse: top_model/main.cpp $(HEADERS) | $(BIN_DIR)
+	$(CXX) $(CXXFLAGS) $(INCLUDES) -o $(BIN_DIR)/greenhouse top_model/main.cpp
 
 # Create bin directory
 $(BIN_DIR):
 	mkdir -p $(BIN_DIR)
 
 # Run targets
-run: test_nature
+run_nature: test_nature
 	./$(BIN_DIR)/test_nature
 
 run_soil: test_soil
