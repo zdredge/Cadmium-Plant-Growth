@@ -3,7 +3,8 @@ CXX          = g++
 CXXFLAGS     = -std=c++17 -Wall -Wextra
 
 # Include paths
-CADMIUM_INCLUDE  = /home/zdredge/cadmium_v2/include # Update this path to your local Cadmium include directory
+# CADMIUM_INCLUDE  = /home/zdredge/cadmium_v2/include # Update this path to your local Cadmium include directory
+CADMIUM_INCLUDE = $(CADMIUM)
 # PROJECT_INCLUDE  = main/include
 INCLUDES         = -I$(CADMIUM_INCLUDE) -Iatomics -Icoupled
 
