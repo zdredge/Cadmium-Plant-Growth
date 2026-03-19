@@ -14,7 +14,7 @@ else()
     # Route all compiled executables to the bin directory
     set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR}/bin)
 
-   \# Cadmium Path
+    # Cadmium Path
     if(DEFINED ENV{CADMIUM})
         # Check both possibilities: if CADMIUM points to the root, or directly to the include folder
         set(CADMIUM_PATHS $ENV{CADMIUM} $ENV{CADMIUM}/include)
