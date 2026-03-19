@@ -37,8 +37,6 @@ To compile and run this simulation, you must have the following installed:
 * The **Cadmium** DEVS simulation library
 * `make` build automation tool
 
-*Note: Ensure your `Makefile` correctly points to your local installation of the Cadmium library using the `-I` include flag.*
-
 ## Compilation
 This project includes a standard `Makefile` to automate the build process.
 
