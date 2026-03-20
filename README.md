@@ -29,28 +29,48 @@ This project strictly follows the standard Cadmium project directory structure:
 * **`top_model/`**: Contains the main C++ file (`main.cpp`) used to instantiate and run the top-level greenhouse model.
 * **`test/`**: Contains the individual test benches (`test_soil.cpp`, `test_stem.cpp`, etc.) used to verify the logic of each component.
 * **`input_data/`**: Contains the text files used to feed external inputs into the test cases.
-* **`bin/`**: The target directory where the compiled executables are saved after running `make`.
+* **`CMakeLists.txt`**: Defines the CMake build targets and include paths for the simulation and tests.
+* **`build_sim.sh`**: Helper script that performs a clean configure/build using CMake and `make`.
+* **`bin/`**: The target directory where the compiled executables are saved after building.
 
 ## Prerequisites
 To compile and run this simulation, you must have the following installed:
 * A standard C++17 compiler (e.g., `g++`)
 * The **Cadmium** DEVS simulation library
+* `cmake` (version 3.16 or higher)
 * `make` build automation tool
+* `bash` (to run `build_sim.sh`)
 
 ## Compilation
-This project includes a standard `Makefile` to automate the build process.
+This project uses CMake through `CMakeLists.txt` and includes a helper script (`build_sim.sh`) for a clean build.
 
-To compile the entire project, navigate to the project directory in your terminal and run:
+### Recommended (clean build script)
 ```bash 
-make
+source build_sim.sh
 ```
+
+What this script does:
+* Removes the previous `build/` directory and old `.csv` files.
+* Reconfigures the project with `cmake ..`.
+* Compiles all targets with `make`.
+* Places executables in `bin/`.
+
+### Manual CMake build
+```bash
+mkdir -p build
+cd build
+cmake ..
+make
+cd ..
+```
+
 ## Testing
-The terminal commands to run the test classes for each model, atomic and coupled, are listed below:
-* **Nature**: make run_nature
-* **Soil**: make run_soil
-* **Plant Stem**: make run_stem
-* **Basil Plant**: make run_basil_plant
-* **Greenhouse**: make run_greenhouse
+After building, run the executables directly from `bin/`:
+* **Nature**: `./bin/test_nature`
+* **Soil**: `./bin/test_soil`
+* **Plant Stem**: `./bin/test_stem`
+* **Basil Plant**: `./bin/test_basil_plant`
+* **Greenhouse**: `./bin/greenhouse`
 
 Additionally, as discussed in the report there are a few test cases that outputs have not been included for as they were more exporitory in nature.
 The following is a set of instructions to reproduce each test.
